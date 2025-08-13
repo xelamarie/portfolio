@@ -182,7 +182,7 @@ const projectData = {
 
       <p style="margin-bottom: 0.5rem;">Video Preview (click to open):</p>
       <a href="https://www.youtube.com/watch?v=M4sNwW1OBSs" target="_blank">
-        <img src="Images/SDT-video.png" alt="Video preview" style="width:100%; border-radius:8px; margin-bottom:1rem;" />
+        <img src="images/SDT-video.png" alt="Video preview" style="width:100%; border-radius:8px; margin-bottom:1rem;" />
       </a>
       
       <p style="margin-bottom: 0.5rem;">Infographic Preview (click to open collection):</p>
@@ -575,8 +575,8 @@ const projectData = {
       <p>Due to data privacy policies, the reports are not publicly shareable. However, a representative mockup using fabricated data is shown below.</p>
 
       <h3>Sample Power BI Report</h3>
-      <a href="Images/powerbi-dashboard-mockup.jpg" target="_blank">
-        <img src="Images/powerbi-dashboard-mockup.jpg" alt="Dashboard mockup" style="width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+      <a href="images/powerbi-dashboard-mockup.jpg" target="_blank">
+        <img src="images/powerbi-dashboard-mockup.jpg" alt="Dashboard mockup" style="width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
       </a>
     `,
   },
