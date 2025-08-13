@@ -585,6 +585,11 @@ ul {
   border: 1px solid #f5c6cb;
 }
 
+/* Honeypot field (spam trap) */
+.hp-field {
+  display: none;
+}
+
 /* Testimonials */
 .testimonials {
   background: linear-gradient(135deg, var(--background) 0%, #e8f4f8 100%);

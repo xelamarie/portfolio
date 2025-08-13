@@ -678,7 +678,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(async (response) => {
           if (response.ok) {
             showFormMessage(
-              "Thank you for your message! I’ll get back to you within 24 hours.",
+              "Thank you for your message! I’ll get back to you soon.",
               "success"
             );
             contactForm.reset();
