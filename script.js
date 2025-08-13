@@ -626,72 +626,101 @@ const cardObserver = new IntersectionObserver(
 
 $$(".portfolio-card").forEach((card) => cardObserver.observe(card));
 
-/* ===========================
-   Contact Form Validation
-=========================== */
-if (contactForm && formMessage) {
-  contactForm.addEventListener("submit", (e) => {
-    e.preventDefault();
+document.addEventListener("DOMContentLoaded", () => {
+  const contactForm = document.getElementById("contactForm");
+  const formMessage = document.getElementById("formMessage");
 
-    const formData = new FormData(contactForm);
-    const name = (formData.get("name") || "").toString().trim();
-    const email = (formData.get("email") || "").toString().trim();
-    const message = (formData.get("message") || "").toString().trim();
+  /* ===========================
+     Contact Form Validation
+  =========================== */
+  if (contactForm && formMessage) {
+    contactForm.addEventListener("submit", (e) => {
+      e.preventDefault();
 
-    // Reset messages
-    formMessage.style.display = "none";
-    formMessage.className = "form-message";
+      const formData = new FormData(contactForm);
+      const name = (formData.get("name") || "").toString().trim();
+      const email = (formData.get("email") || "").toString().trim();
+      const message = (formData.get("message") || "").toString().trim();
 
-    // Validation
-    const errors = [];
-    if (!name) errors.push("Name is required");
-    if (!email) {
-      errors.push("Email is required");
-    } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-      errors.push("Please enter a valid email address");
-    }
-    if (!message) errors.push("Message is required");
-    else if (message.length < 10)
-      errors.push("Message must be at least 10 characters long");
-
-    if (errors.length) {
-      showFormMessage(errors.join("<br>"), "error");
-      return;
-    }
-
-    // Simulate submission
-    const submitButton = contactForm.querySelector(".form-button");
-    if (submitButton) {
-      submitButton.disabled = true;
-      submitButton.textContent = "Sending...";
-    }
-
-    setTimeout(() => {
-      showFormMessage(
-        "Thank you for your message! I'll get back to you within 24 hours.",
-        "success"
-      );
-      contactForm.reset();
-      if (submitButton) {
-        submitButton.disabled = false;
-        submitButton.textContent = "Send Message";
-      }
-    }, 1500);
-  });
-}
-
-function showFormMessage(message, type) {
-  if (!formMessage) return;
-  formMessage.innerHTML = message;
-  formMessage.className = `form-message ${type}`;
-  formMessage.style.display = "block";
-
-  if (type === "success") {
-    setTimeout(() => {
+      // Reset messages
       formMessage.style.display = "none";
-    }, 5000);
+      formMessage.className = "form-message";
+
+      // Validation
+      const errors = [];
+      if (!name) errors.push("Name is required");
+      if (!email) {
+        errors.push("Email is required");
+      } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        errors.push("Please enter a valid email address");
+      }
+      if (!message) errors.push("Message is required");
+      else if (message.length < 10)
+        errors.push("Message must be at least 10 characters long");
+
+      if (errors.length) {
+        showFormMessage(errors.join("<br>"), "error");
+        return;
+      }
+
+      // Real submission to Formspree
+      const submitButton = contactForm.querySelector(".form-button");
+      if (submitButton) {
+        submitButton.disabled = true;
+        submitButton.textContent = "Sending...";
+      }
+
+      fetch(contactForm.action, {
+        method: contactForm.method,
+        body: new FormData(contactForm),
+        headers: { Accept: "application/json" },
+      })
+        .then(async (response) => {
+          if (response.ok) {
+            showFormMessage(
+              "Thank you for your message! I’ll get back to you within 24 hours.",
+              "success"
+            );
+            contactForm.reset();
+          } else {
+            let msg = "Oops! Something went wrong. Please try again.";
+            try {
+              const data = await response.json();
+              if (data && data.errors) {
+                msg = data.errors.map((e) => e.message).join("<br>");
+              }
+            } catch (_) {}
+            showFormMessage(msg, "error");
+          }
+        })
+        .catch(() => {
+          showFormMessage(
+            "There was a network problem submitting your form.",
+            "error"
+          );
+        })
+        .finally(() => {
+          if (submitButton) {
+            submitButton.disabled = false;
+            submitButton.textContent = "Send Message";
+          }
+        });
+    });
   }
-}
+
+  function showFormMessage(message, type) {
+    if (!formMessage) return;
+    formMessage.innerHTML = message;
+    formMessage.className = `form-message ${type}`;
+    formMessage.style.display = "block";
+
+    if (type === "success") {
+      setTimeout(() => {
+        formMessage.style.display = "none";
+      }, 5000);
+    }
+  }
+});
 
 /* ===========================
    Theory Browser
