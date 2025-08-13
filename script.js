@@ -187,7 +187,7 @@ const projectData = {
       
       <p style="margin-bottom: 0.5rem;">Infographic Preview (click to open collection):</p>
       <a href="documents/Infographic_Collection.pdf" target="_blank">
-        <img src="documents/infographic-collage.png" alt="Infographic preview" style="width:100%; border-radius:8px; margin-bottom:1rem;" />
+        <img src="images/infographic-collage.png" alt="Infographic preview" style="width:100%; border-radius:8px; margin-bottom:1rem;" />
       </a>
 
       <p style="margin-bottom: 0.5rem;">Podcast Excerpt:</p>
