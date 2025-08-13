@@ -1,0 +1,64 @@
+IPEDS Survey Training – David Kolb’s Experiential Learning Theory
+Focused Strategies: Concrete Experience & Active Experimentation
+Target Learners: Postsecondary administrators responsible for IPEDS reporting
+
+Learning Objectives
+By the end of this training, participants will be able to:
+1. Identify the required components and deadlines of the IPEDS survey.
+2. Complete a mock IPEDS data entry task using provided institutional data.
+3. Revise submitted survey entries based on feedback and peer discussion.
+
+I. Concrete Experience
+
+A. Kickoff Case Study – “Meet Riverview Community College” (20 minutes)
+Learners are introduced to a fictional community college with:
+- Institutional profile and background narrative
+- Organizational chart showing reporting roles
+- Internal coordinator notes
+- Sample calendar of deadlines
+
+Activity:
+- Annotate a digital reporting calendar with critical due dates.
+- Mark up an internal checklist for upcoming IPEDS responsibilities.
+
+Assessment (LO1): Learners identify core IPEDS components and deadlines by completing the checklist and calendar based on the case study.
+
+B. Walkthrough of Past Reporting Errors (15 minutes)
+Learners review three anonymized IPEDS submission mistakes, including:
+- A description of what went wrong
+- Original data vs. corrected versions
+- References to the IPEDS instructions for verification
+
+Small-Group Task:
+- Identify misreported elements (e.g., staff categories, enrollment timing).
+- Suggest accurate revisions using official IPEDS definitions.
+
+Assessment (LO1): In a collaborative worksheet, learners identify three required components that were misreported and propose corrections.
+
+II. Active Experimentation
+
+A. Mock IPEDS Submission Task (25 minutes)
+- Each learner is assigned a simplified IPEDS section (e.g., Fall Enrollment or Finance).
+- Using Riverview’s mock dataset:
+  - Complete an interactive form modeled after the IPEDS platform.
+  - Use the IPEDS data dictionary and help guide as needed.
+
+Assessment (LO2): Learners complete their assigned section and submit it for peer review.
+
+B. Peer Review & Feedback Loop (20 minutes)
+- Peer Assignments: Each learner is assigned a partner’s mock submission.
+- Feedback Tasks:
+  - Review formatting, data accuracy, and terminology use using a structured rubric.
+  - Provide constructive written comments.
+- Follow-up:
+  - Discuss feedback in short breakout sessions or via a guided forum.
+  - Revise original submissions accordingly.
+
+Assessment (LO3): Learners resubmit revised work for instructor review.
+
+C. Final Reflection (Optional Extension – 5 minutes)
+Prompt: “What parts of the IPEDS reporting process felt most intuitive? Which steps need more tools or clarity?”
+Submission: Written reflection or voice memo summarizing key takeaways.
+
+Explanation of Instruction
+This lesson applies Kolb’s Concrete Experience and Active Experimentation phases by immersing learners in a realistic scenario before asking them to apply their knowledge in practical tasks. The fictional “Riverview Community College” case study offers a tangible, context-rich entry point for identifying deadlines and components without starting from abstract definitions. Learners then move into hands-on experimentation, completing and refining a mock IPEDS submission based on peer review. This sequence mirrors workplace tasks and provides a safe space for trial, feedback, and revision—ensuring that participants leave with both procedural knowledge and applied skills for IPEDS reporting.

@@ -1,0 +1,69 @@
+Instructional Design Outline – IPEDS Survey Completion Using Collaborative Learning Theory
+
+Target Audience: Postsecondary administrators responsible for IPEDS reporting
+Training Topic: Completing the IPEDS Graduation Rates Survey
+
+1. Learning Objectives
+By the end of this training, participants will be able to:
+• Collaborate with peers to interpret and complete components of the IPEDS survey.
+• Explain the purpose and structure of the IPEDS survey to a colleague using institutional language and examples.
+• Apply institutional data appropriately within IPEDS reporting categories through guided group work.
+ 
+2. Instructional Strategies
+Instructional design rooted in Collaborative Learning Theory includes:
+• Strategic Grouping*: Learners are placed in intentionally mixed teams that shift depending on the task scope.
+• Problem-Based Learning (PBL): Participants tackle open-ended data scenarios that mimic the real-life ambiguity of IPEDS categorization.
+• Peer Interaction: Frequent dialogue, negotiation, and shared workspaces create opportunities for peer-led learning.
+• Reflection and Metacognition: Learners assess both group processes and their individual contributions.
+• Dual-Level Assessment: Both group outputs and individual roles are evaluated for accountability and growth.
+• Technology-Enhanced Collaboration: Use of shared docs, virtual rooms, and collaborative tools supports interaction across formats.
+ 
+3. Learning Activities
+• Collaborative IPEDS Problem Challenge
+Learners are given messy, real-world data from a fictional institution and work in small groups (collaborate) to clean, classify, and apply institutional data to mock IPEDS survey sections. Each team presents its decisions and receives peer feedback.
+→ Assesses: Apply institutional data, Collaborate with peers
+
+• Think-Pair-Teach
+Participants first explain the purpose and structure of a portion of the IPEDS survey individually, then in pairs, and finally teach it to a small group. This builds conceptual clarity through dialogue and repetition.
+→ Assesses: Explain the purpose and structure
+
+• Rotating Peer Review Stations
+Groups rotate through review stations where they critique sample IPEDS submissions and leave written feedback. This promotes peer-to-peer interaction (collaboration) and reinforces understanding and application of reporting logic.
+→ Supports: Apply institutional data, Collaborate with peers
+
+• Group Reflection + Debrief
+Teams complete a brief structured reflection on their collaboration, including communication, role division, and problem-solving approaches. Individuals also write a reflection on their learning and growth.
+→ Assesses: Collaborate with peers
+
+• Tech Tools in Action
+Throughout the training, teams use shared (collaborative) Google Docs, whiteboards, and breakout rooms for planning, discussion, application, and submission of work. A shared rubric is visible for all assessments.
+→ Supports: Collaborate with peers, Apply institutional data
+ 
+4. Assessment Methods
+Formative Assessments
+→ Assesses all three objectives: Collaborate with peers, Explain the purpose and structure, Apply institutional data
+• Peer feedback on group decision-making and application of IPEDS logic
+• Group debrief discussions and collaborative notes
+• Self- and peer-assessments on teamwork and contributions
+
+Summative Assessment 
+→ Assesses all three objectives: Collaborate with peers, Explain the purpose and structure, Apply institutional data
+• Final group submission: mock IPEDS section with a rationale and brief video walk-through of the purpose, application, and process
+• Reflective journal on group collaboration, communication, and individual understanding
+ 
+5. Evaluation of Training Impact
+• Post-session surveys evaluating perceived clarity, usefulness of peer interaction, and sense of contribution
+• Review of team and individual reflections for depth of learning and collaborative growth
+• Optional follow-up 2–4 weeks later on implementation of collaboration-based practices in real reporting scenarios
+ 
+
+*Group Formation Challenge Addressed: Group formation based on student choice can lead to cliques, while random assignment might not support strong collaboration.
+Solution:
+• Community Building Before Grouping: Begin with low-stakes whole-class collaborative tasks and self-reflection activities to help students get to know each other’s working styles and strengths.
+• Self-Interest Surveys + Instructor Grouping: Have students fill out a short form about their interests, strengths, and preferred work styles. Use this to assign balanced and interest-aligned groups.
+• Group Agreements: Once formed, each group creates a collaboration agreement that outlines expectations and norms, empowering them to take ownership of how they work together.
+
+EXPLANATION OF INSTRUCTION
+This training applies Collaborative Learning Theory, which emphasizes learning through social interaction and shared problem-solving. Participants work in rotating groups to tackle ambiguous IPEDS challenges (aligning with Problem-Based Learning), co-construct understanding of reporting requirements. They explain and apply their learning through conversation, teaching, and group submission tasks, all designed to encourage peer interaction. The Think-Pair-Teach activity supports metacognition, while peer review and group reflection reinforce accountability and deepen insight.
+
+The learning design balances real-world complexity with dual-level assessment of both group products and individual roles, promoting fairness and growth. Digital tools are used throughout to support technology-enhanced collaboration, ensuring visibility, shared ownership, and active participation in both in-person and online settings. To support more effective collaboration, groups are formed using self-interest surveys and a brief community-building phase to ensure balance, inclusivity, and shared ownership from the start. This structure not only helps learners build IPEDS expertise, it helps them build one another up in the process.

@@ -1,0 +1,49 @@
+Instructional Design Plan: IPEDS Survey Training Using Schema Theory
+1. Learning Objectives
+By the end of this training, participants will be able to:
+• Identify the major sections and components of the IPEDS survey.
+• Categorize institutional data into the appropriate IPEDS reporting sections.
+• Compare their pre-existing understanding of IPEDS reporting to newly acquired knowledge structures.
+
+2. Schema Theory in Action
+Prior Schemas:
+Participants may enter the training with pre-existing schemas related to:
+• Institutional data management,
+• Use of Excel or reporting software,
+• Regulatory requirements from past compliance experience.
+Instructional Influence on Schemas:
+• The training will activate these schemas through contextual examples and advance organizers.
+• It will modify and build new schemas by offering corrected frameworks for organizing IPEDS data.
+• Misconceptions—such as assuming data used in other federal reports are always identical to IPEDS definitions—will be explicitly addressed through contrastive examples.
+Schema Theory Application:
+Grounded in the work of Bartlett (schematic memory), Piaget (assimilation and accommodation), Minsky (frame-based understanding), and Anderson (schema refinement), this training leverages prior knowledge while guiding learners to reorganize and elaborate their cognitive structures for more efficient and accurate IPEDS reporting.
+
+3. Instructional Strategies
+• Advance Organizers: A visual map of the IPEDS survey structure provided at the start of training.
+• Analogies and Examples: Comparisons between familiar data reports and IPEDS (e.g., comparing accreditation reporting to IPEDS timing and definitions).
+• Chunking and Categorization: Grouping survey components into logical domains (e.g., Enrollment, Finance, Outcomes).
+• Schema Strengthening: Repetition of core reporting concepts using multiple representations (charts, practice entries, role play).
+
+4. Learning Activities
+• Interactive: Learners complete a drag-and-drop activity where they must identify key terms and place them in the correct survey sections (assesses identify).
+• Constructive: Small groups receive fictional data sets and are asked to categorize each piece of information into the correct part of the IPEDS survey. They will explain their reasoning to peers and receive feedback (assesses categorize).
+• Reflective: Learners complete a journal prompt: “How did your understanding of IPEDS reporting change during this training? Which assumptions were corrected?” They will be prompted to compare old and new schema (assesses compare).
+
+5. Assessment Methods
+Formative Assessments:
+• Knowledge checks (multiple choice and matching) used throughout the training to identify components of the survey correctly.
+• Guided discussion and polling to compare participant assumptions with best practices.
+Summative Assessments:
+• Learners will construct a simplified IPEDS report using mock data and submit it for evaluation.
+• Within the summative project, they will categorize all provided data fields into correct IPEDS sections and provide a short justification.
+• A post-activity reflection will again ask learners to compare their current and prior understanding, reinforcing the reflective cycle of schema development.
+
+6. Evaluation of Training Impact
+• Post-training survey to measure perceived schema clarity and reporting confidence.
+• Accuracy audit comparing mock submissions to the expected output.
+• Pre- and post-training schema maps: Participants will draw concept maps of the IPEDS survey before and after training to visually demonstrate schema development and integration.
+• Long-term: Monitor error rates or correction cycles in IPEDS submissions following training to evaluate real-world transfer of schema.
+
+EXPLANATION OF INSTRUCTION
+This training on IPEDS survey completion is built around Schema Theory, recognizing that adult learners come with prior experiences and mental frameworks related to data, reporting, and institutional systems. To support effective learning, the lesson begins by activating prior knowledge through reflective prompts and advance organizers that connect IPEDS concepts to familiar reporting tasks. The content is organized into progressive, manageable segments aligned with the structure of the IPEDS survey itself. Learners are guided through scaffolded modules that include chunking and categorization of data types, helping them visualize and internalize how institutional information fits into each reporting section.
+The training facilitates schema development by using real-world analogies, interactive classification activities, and concept mapping tasks that require learners to apply their understanding in context. Learners are also presented misconceptions and problem-based scenarios to encourage schema accommodation, allowing learners to refine or restructure inaccurate mental models. Learners are then given opportunities to reinforce and apply schemas through hands-on practice with mock data, reflective journaling, and a summative project that mirrors actual IPEDS tasks. These strategies promote meaningful connections, long-term retention, and confident application of IPEDS concepts in the workplace.

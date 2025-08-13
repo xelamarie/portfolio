@@ -1,0 +1,40 @@
+Instructional Design for IPEDS Survey Completion Inspired by Carmy Berzatto
+Target Audience: Postsecondary administrators responsible for IPEDS reporting
+Training Topic: Completing the IPEDS Graduation Rates Survey
+
+1. Learning Objectives
+By the end of this training, participants will be able to:
+LO1. Choose appropriate data reporting strategies based on their institutional role and context.
+LO2. Accurately complete a section of the IPEDS survey using institutional data.
+LO3. Collaborate meaningfully with peers to improve both individual and group competence in IPEDS reporting.
+
+2. Instructional Strategies
+• Support Autonomy – Learners choose reporting examples or formats that align with their institutional role.
+• Build Competence – Tasks are appropriately scaffolded and include mastery-based checkpoints.
+• Foster Relatedness – Collaborative tasks and peer feedback foster mutual support.
+• Encourage Intrinsic Motivation – Activities are grounded in real-world IPEDS work with authentic purpose.
+• Promote Internalization – Reflection and self-assessment connect tasks to long-term professional goals.
+
+3. Learning Activities
+• Carmy’s “Prep Board” (assesses LO1) – Inspired by Carmy’s kitchen prep style, learners choose from a menu of reporting scenarios based on their department or institution size. Each option includes resources, templates, and deadlines.
+• Structured Kitchen Line (assesses LO2) – Modeled after Carmy’s high-pressure, high-structure kitchen line, learners complete a section of the IPEDS survey with scaffolded steps and live feedback checkpoints.
+• Back-of-House Huddle (assesses LO3) – Peer working groups collaborate by simulating a pre-service kitchen meeting where teams clarify goals, delegate roles, and complete an IPEDS mini-task together. Debrief includes giving each other feedback using a checklist that mirrors Carmy’s review process.
+• Chef’s Journal (supports LO1, LO2, LO3) – Learners reflect on their choices, confidence in completion, and collaboration in a journal that connects their learning to broader reporting goals and personal development.
+
+4. Assessment Methods
+Formative Assessments:
+• Results of chosen “prep board” pathway (LO1).
+• Live facilitator feedback during scaffolded IPEDS completion entry task (LO2).
+• Peer checklist from collaborative “huddle” task (LO3).
+Summative Assessment:
+• Submission of a completed mini-IPEDS entry with rationale for choices, collaborative feedback summary, and Chef’s Journal entry tying the experience to institutional needs and reporting goals (assesses all LOs).
+
+5. Evaluation of Training Impact
+• Exit Survey – Measures perceived autonomy, competence, and connection during the training.
+• Peer Feedback Logs – Analyze comments for evidence of constructive collaboration and shared accountability.
+• Optional Follow-Up Check-In – Administered 3–4 weeks post-training to evaluate integration of SDT strategies in actual IPEDS practice.
+
+EXPLANATION OF INSTRUCTION
+This lesson is structured around Self-Determination Theory, using Carmy Berzatto as a guiding metaphor for balancing structure and autonomy under pressure. Like his kitchen, the learning environment is fast-paced but intentional. Success depends on communication, clarity, and confidence. Learners are given meaningful choices that reflect their professional scope (supports autonomy), supported with scaffolding that builds mastery at every step (builds competence), and paired with team-based activities that promote trust and shared purpose (fosters relatedness).
+
+Carmy’s approach is focused, careful, and demonstrates care for his team. That spirit carries into the training, where learners feel ownership of their process and recognize how their work contributes to something greater. Activities are rooted in real-world IPEDS tasks with meaningful purpose (encourages intrinsic motivation) and include reflection and self-assessment prompts to help participants connect what they’re doing to long-term professional goals (promotes internalization).

@@ -1,0 +1,54 @@
+**Theory name: Classical Conditioning (Ivan Pavlov)**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Administrators at Postsecondary Institutions
+
+**Learning Objective**:
+
+1. [LO1] Learners will accurately identify all required steps involved in completing the IPEDS Graduation Rates Survey by scoring at least 90% on a knowledge check.
+2. [LO2] Learners will enter dummy data into a simulated IPEDS Graduation Rates Survey and submit it with zero critical errors, as evaluated by a scoring rubric.
+3. [LO3] Learners will demonstrate consistent use of a data verification process (e.g., checklist or review prompt) in 100% of survey sections during practice activities.
+
+**Steps for Instruction**
+
+**1. Establishing the Unconditioned Stimulus (US) and Unconditioned Response (UR)**
+
+**Activity**: Expose learners to the natural consequences of incomplete or incorrect survey data submission.
+
+- **Preparation**: Create a case study and visuals of data submission errors and consequences.
+- **Instruction**: Present the case study. Facilitate discussion to create a natural sense of responsibility and urgency. This section primes learner motivation but does not directly assess any of the learning objectives.
+
+**2. Pairing the Conditioned Stimulus (CS) with the Unconditioned Stimulus (US)**
+
+**Activity**: Associate correct survey completion steps with reinforcing stimuli (e.g., chimes, checkmarks).
+
+- **Preparation**: Create a guided simulation with built-in reinforcement cues.
+- **Instruction**: Walk learners through survey steps. Provide positive reinforcement after correct actions and neutral prompts after mistakes. [LO1] Learners will complete a knowledge check identifying each required step; a score of 90% or higher indicates mastery. Assessment placement: After the guided simulation, learners complete a knowledge check based on the correct sequence of survey tasks.
+
+**3. Reinforcing the Conditioned Response (CR) through Repetition**
+
+**Activity**: Practice entering data into simulated survey environments with reinforcing feedback.
+
+- **Preparation**: Set up multiple mock survey sections for practice.
+- **Instruction**: Learners complete small sections with reinforcing cues. Gradually reduce reinforcement as learners internalize the behavior. Encourage verbalization and reflection on task steps. [LO2] Learners complete mock surveys with dummy data and are assessed using a rubric that checks for zero critical errors. [LO3] Learners are required to complete a verification checklist before submitting each section. Assessment placement: During each section of the simulated survey, learners must (a) enter data accurately and (b) complete the verification process before submission.
+
+**4. Stimulus Generalization: Applying the Conditioned Response to Real-World Scenarios**
+
+**Activity**: Complete a full practice survey with slight variations using institutional tools.
+
+- **Preparation**: Create a full-length practice survey that mimics the real IPEDS platform.
+- **Instruction**: Learners complete the survey with minimal guidance. Reinforcement occurs only after the full submission. [LO2] Learners apply their skills in a full simulation, completing the task with zero critical errors. [LO3] Learners continue to apply the verification checklist during this independent exercise. Assessment placement: Final simulated submission scored using the same rubric and verification checklist criteria.
+
+**5. Extinction and Spontaneous Recovery: Preventing the Loss of the Conditioned Response**
+
+**Activity**: Refresher activities and spaced practice.
+
+- **Preparation**: Create short quizzes and simulations for ongoing practice.
+- **Instruction**: Deliver brief training before each reporting period. Provide immediate reinforcement or correction as needed. [LO1] Reinforced via quick review quizzes on survey steps. [LO2 & LO3] Reinforced via mini simulations that require accurate entry and verification. Assessment placement: Low-stakes, spaced assessments that reinforce all three learning objectives periodically over time.
+
+**Explanation of Instruction**
+
+This instructional design is grounded in the principles of Classical Conditioning, using a structured sequence of stimulus pairing, positive reinforcement, and repetition to develop automatic, accurate survey completion behavior. The instruction begins by presenting an unconditioned stimulus—real-world consequences of incorrect reporting—to evoke a natural emotional response in the learner. From there, learners are repeatedly exposed to the correct steps of the IPEDS Graduation Rates Survey while receiving consistent positive reinforcement (e.g., chimes, checkmarks, praise) for accurate performance. As these cues are paired with correct actions, learners begin to form a conditioned response—accurately completing and verifying survey data with minimal external prompting.
+
+To strengthen this response, the training includes guided practice, gradual fading of external reinforcement, and real-world simulation, ensuring that learners can apply their skills across contexts. Throughout the lesson, the three learning objectives are measured: identifying required steps through a knowledge check (LO1), accurately entering and locking data in a simulated environment (LO2), and consistently using a verification checklist to reinforce quality control (LO3). Ongoing reinforcement activities and refresher tasks help prevent extinction of the behavior, allowing learners to retain and apply their skills long-term with confidence and precision.

@@ -1,0 +1,47 @@
+Instructional Design for IPEDS Survey Completion Inspired by Violet Crawley (The Dowager Countess)
+Target Audience: Postsecondary administrators responsible for IPEDS reporting
+Training Topic: Completing the IPEDS Graduation Rates Survey
+ 
+1. Learning Objectives
+By the end of this training, participants will be able to:
+LO1. Describe how maintaining flow can improve focus and accuracy in IPEDS data reporting tasks.
+LO2. Complete an IPEDS reporting task that aligns the cognitive challenge with your current skill level.
+LO3. Reflect on your learning experience by noting when you felt most engaged during reporting and considering how to recreate that experience.
+ 
+2. Instructional Strategies
+•	Set Clear Goals and Provide Immediate Feedback – Use rubrics and polling tools to anchor focus.
+•	Balance Challenge with Skill – Tasks gradually increase in complexity, matched to participant experience levels.
+•	Promote Learner Autonomy – Participants choose reporting topics, pacing, and feedback format.
+•	Facilitate Deep Engagement through Action-Awareness Merging – Use hands-on simulations and storytelling.
+•	Minimize Distractions and Support Focused Concentration – Timed work intervals and structured digital environments.
+•	Foster Risk-Taking and Loss of Self-Consciousness – Peer encouragement, low-stakes feedback.
+•	Create the Conditions for Time Distortion – Fast-paced design sprint challenges.
+•	Design Self-Rewarding Activities – Inject humor, relevance, and occasional dry wit—à la Violet Crawley.
+ 
+3. Learning Activities
+•	"Mind the Flow" Icebreaker (assesses LO1): Participants hear a brief story narrated in Violet’s voice about a disastrous IPEDS error that occurred due to lack of focus. They then describe ways flow could’ve prevented the mistake.
+•	Flow Mapping Activity (assesses LO3): Learners reflect on and chart their personal moments of high focus during training and describe the conditions that made those moments engaging.
+•	Progressive IPEDS Simulation (assesses LO2): Participants complete three IPEDS data tasks, each increasing slightly in complexity. Real-time feedback and reflection questions keep them in the flow zone.
+•	Dowager’s Design Sprint (supports LO2): A time-limited team challenge where participants complete and submit mock data under pressure. Violet pops in (virtually, via quotes) with commentary to keep things sharp and witty.
+•	Choice-Based Microlearning Path (supports LO2): Participants select either a structured or exploratory version of the same task, promoting autonomy and increasing immersion.
+ 
+4. Assessment Methods
+Formative Assessments:
+•	Live poll reflection on the Violet scenario where learners describe the impact of flow (LO1).
+•	Flow Mapping Journal entries reflecting on ideal task conditions (LO3).
+•	Self-check rubrics during completion of simulation tasks (LO2).
+Summative Assessment:
+•	Final IPEDS Task Completion/Submission scored with a flow-aligned rubric (accuracy, focus, engagement) (LO2).
+•	Short reflection explaining how participants managed to stay engaged, when they lost focus, and how they’d adjust next time (LO3).
+ 
+5. Evaluation of Training Impact
+•	Post-training flow perception survey.
+•	Participant reflections on applying flow strategies to real IPEDS tasks.
+•	Optional follow-up poll 2–4 weeks later on whether they’ve changed how they approach high-focus reporting tasks.
+ 
+
+EXPLANATION OF INSTRUCTION
+
+This training utilizes Flow Theory to help learners feel more focused, energized, and motivated while reporting IPEDS data. It starts by setting clear goals and allowing for immediate feedback through rubrics and interactive polling tools. This establishes the mental structure needed for flow. Learners then progress through scaffolded challenges that align with their skill levels, ensuring the work is not too easy or not too overwhelming. This is done in order to balance challenge with skill. Along the way, participants choose their reporting topics, set their own pacing, and select how they’d like to receive feedback, supporting learner autonomy.
+
+To help learners become fully focused, the instruction incorporates real-world simulations and narrative prompts that combine thinking and doing, thus facilitating deep engagement through action-awareness merging. With timed work intervals and structured digital tools, learners stay on task while minimizing distractions. Intentional but low-stakes peer feedback and subtle nudging from Violet Crawley encourage risk-taking and a loss of self-consciousness. As participants focus on fast-paced reporting challenges, they forget the clock, creating the conditions for time distortion. And of course, the entire experience is peppered with wit, relevance, and moments of surprise, to make each task feel self-rewarding in true Dowager fashion.

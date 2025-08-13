@@ -1,0 +1,43 @@
+**Theory name: Connectivism**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Administrators at postsecondary institutions
+
+**Learning Objective**:
+
+1. Learners will correctly identify the steps involved in completing the Graduation Rates survey
+
+2. Learners will accurately complete and lock the survey
+
+**Steps for Instruction**
+
+**1. Foster Connections and Networks**
+
+**Activity**: Introduce learners to the IPEDS graduation rates survey and set the stage for a networked learning environment
+
+- **Preparation**: Give survey access to the learners and make sure they have permissions to view the institution’s relevant data. Set up a Microsoft Teams group where learners can connect, ask questions, and share insights about the survey completion process.
+
+- **Instruction**: Provide a brief overview of the importance of the accurate and timely submission of IPEDS data. Encourage learners to be active participants in collaborating with peers, experts, and/or the instructor as they navigate the survey. Learning from one another through the asking of questions and the sharing of strategies will enhance the experience. The instructor will act as a facilitator, but the learners will take ownership of their learning. Organize learners into groups of 3-4 people, allowing diverse perspectives to be present in the collaborative experience.
+
+**2. Leverage Technology and Promote Continuous Learning**
+
+**Activity**: Introduce learners to digital tools and resources available for survey completion
+
+- **Preparation**: Compile links to resources that learners can use as they discover how to complete the survey. Include online tutorials/webinars from the Association for Institutional Research (AIR) and from the National Center for Education Statistics (NCES). Link to documents on the NCES website that contain glossaries of important terms and definitions related to the graduation rates surveys, FAQs, as well as links to previous years’ data submissions. Also include NCES contact information for additional support.
+
+- **Instruction**: Stress the importance of using available technologies to assist in survey completion. Using diverse information sources will help provide a complete and current picture. Direct them to adapt to new insights they gain through technological resources. Encourage learners to use Power BI, online tutorials, forums, etc., as they discover the survey process. Promote collaboration where learners ask questions and share insights in a collaborative Microsoft Teams environment.
+
+**3. Create Opportunities for Learners to Collaborate on Problem-Based Activities**
+
+**Activity**: Have learners work together to fill out a practice survey using mock data
+
+- **Preparation**: Prepare a practice survey that mirrors the sections and data fields contained in an actual IPEDS graduation rates survey. Create a report in Power BI that contains mock institutional data for learners to use as they fill out the mock survey.
+
+- **Instruction**: Provide learners with a mock survey to complete in collaboration with their groups. Encourage learners to share strategies and insights with one another, giving different perspectives on the process. Have learners review each other’s work and provide feedback. Involve every learner in the group in the accurate completion of the mock survey. Offer guidance where needed, but let learners take ownership of survey completion.
+
+**Explanation of Instruction**
+
+The design of this instruction incorporates the fundamental assumptions of the Connectivism theory. Emphasis is placed on networked learning, use of technology, continuous learning, and collaboration. After being introduced to the IPEDS graduation rates survey, the instructor sets the stage for a collaborative environment which fosters connections and networks. Learners are split into groups and are encouraged to connect with peers and their instructor to ask questions and share strategies. Learners bring diverse perspectives to the table, allowing them to learn from one another.
+
+A key part of the instruction is leveraging technology to explore the survey process. Learners use digital tools, such as online resources in the form of tutorials, glossaries, forums, and previous submissions to enhance their understanding of the IPEDS graduation survey. The instruction also promotes continuous learning by directing learners to the most up-to-date material available for IPEDS data collection. Learners then collaborate by working together on a problem-based activity where they complete a mock survey using institutional data. This enables them to gain a better understanding of the survey as they share insights, perspectives, and feedback with each other. Through this activity, learners apply their learning in a real-world context to ensure they are able to complete an actual IPEDS graduation rates survey with accuracy.

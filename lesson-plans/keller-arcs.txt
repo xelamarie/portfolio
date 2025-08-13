@@ -1,0 +1,63 @@
+Instructional Design for IPEDS Survey Completion Inspired by Atticus Finch
+Learning Objectives
+By the end of this training, participants will be able to:
+• LO1. Identify the purpose and scope of the IPEDS survey using institutional language.
+• LO2. Complete an assigned IPEDS section with attention to data accuracy and ethical reporting.
+• LO3. Evaluate how IPEDS data can support educational equity and accountability.
+
+ARCS Ten-Step Design Process
+Analyze
+1. Acquire course information: Content is grounded in the IPEDS Graduation Rates survey, selected for its relevance to institutional compliance and student success outcomes.
+2. Acquire audience information: Participants are postsecondary administrators and data professionals, with varying levels of IPEDS experience.
+3. Analyze audience motivation level: A pre-training poll captures learners’ confidence, challenges, and personal motivation for improving IPEDS accuracy.
+4. Analyze motivational tactics in existing materials: Traditional materials (e.g., manuals, webinars) were reviewed and found to lack engagement, clarity, and connection to learners’ values.
+
+Design
+5. Define motivational objectives:
+o Gain Attention: Make IPEDS reporting feel urgent and personally meaningful.
+o Establish Relevance: Tie data work to institutional and student impact.
+o Build Confidence: Help learners feel equipped to succeed.
+o Ensure Satisfaction: Reinforce that their work matters.
+6. Identify potential strategies: Use storytelling, ethical framing, scaffolding, peer support, and reflective prompts.
+7. Design appropriate tactics: Include quote analysis, hands-on simulations, and guided reflection to support each ARCS element.
+8. Integrate motivational elements with instruction: Strategies are embedded in each activity and assessment throughout the training.
+
+Develop
+9. Create instructional materials: Materials include narrative case studies, quote prompt slides, guided lab instructions, and peer mentorship tracking dashboards.
+
+Evaluate
+10. Evaluate student motivation and instructional effectiveness: Post-training surveys, peer feedback, and reflections are reviewed to assess shifts in motivation, knowledge, and ethical engagement.
+
+Instructional Strategies (Mapped to ARCS)
+• Gain Attention: Open with a true story of how misreported data negatively impacted student services. Use a short audio clip or visual timeline to draw participants in.
+• Establish Relevance: Connect IPEDS reporting to real-world impact—how accurate data ensures resources go where they’re most needed, echoing Finch’s commitment to justice and truth.
+• Build Confidence: Use scaffolding and modeling to walk learners through complex reporting sections with clarity and support.
+• Ensure Satisfaction: End with a team celebration of completed tasks and a call to civic duty—linking quality reporting to institutional integrity.
+
+Learning Activities
+• Opening Narrative & Quote Reflection (assesses LO1): Begin with an Atticus Finch quote—“You never really understand a person until you consider things from his point of view…”—paired with an anonymized case study of poor reporting. Learners identify, reflect, and connect to the moral and procedural purpose of IPEDS.
+• Guided Reporting Lab (assesses LO2): Learners complete a mock section with prompts and embedded help tools. Finch-style guidance appears as “quiet courage” tips: calm affirmations and structured feedback after each step.
+• Ethics Roundtable (assesses LO3): In groups, participants read and respond to short prompts about how data decisions affect students. Promotes dialogue and evaluation of ethics in reporting.
+• Progress Tracker & Peer Mentorship: Learners track their growth with a visual dashboard and are paired with a mentor to support confidence, building a collegial learning culture.
+
+Assessment Methods
+Formative:
+• Journal entries identifying and explaining the purpose of each IPEDS component (LO1)
+• Completion confidence self-rating surveys before and after tasks (LO2)
+• Peer feedback on mock reporting completion (LO2)
+
+Summative:
+• Group completion and submission of an IPEDS section simulation (LO2)
+• Individual evaluation of and reflection on ethical responsibilities in reporting (LO3)
+• Evaluative feedback loop connecting personal values to institutional outcomes (LO3)
+
+Evaluation of Training Impact
+• Post-training survey measuring motivation, confidence, and clarity
+• Review of reflections for ethical insight and institutional alignment
+• Follow-up mentoring check-in to evaluate long-term retention and satisfaction
+
+
+EXPLANATION OF INSTRUCTION
+This instructional design channels To Kill a Mockingbird’s Atticus Finch’s steadfast sense of duty, humility, and moral clarity to bring Keller’s ARCS model to life. It does this while following Keller’s full ten-step motivational design process. It begins by analyzing course needs and learner motivations, revealing that many participants feel disconnected from the broader value of their IPEDS work. To address this, training opens with an emotionally grounded story to gain attention, setting the stage for learning that’s both urgent and meaningful. Relevance is established through ethical framing and personal connection, helping learners understand how their efforts impact real students and decisions.
+
+Confidence is built through scaffolded practice, mentorship, and affirming feedback, and learners close the session with a strong sense of satisfaction that comes from civic responsibility and shared purpose. Instructional strategies and materials are intentionally designed and developed to promote motivation, autonomy, and ethical reflection. The training is continuously evaluated not only for content mastery, but for increases in learner motivation, clarity, and commitment to institutional impact. Atticus would not expect perfection, but he would guide learners toward courage and growth.

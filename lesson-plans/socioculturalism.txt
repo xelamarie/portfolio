@@ -1,0 +1,46 @@
+**Theory name: Socioculturalism**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Administrators at postsecondary institutions
+
+**Learning Objective**:
+
+1. Learners will correctly identify the steps involved in completing the Graduation Rates survey.
+2. Learners will accurately complete and lock the survey.
+
+**Steps for Instruction**
+
+**1. Prioritize Social Interaction’s Role in Learning**
+
+**Activity**: Introduce learners to the IPEDS graduation rates survey and set the stage for a collaborative environment.
+
+- **Preparation**: Give survey access to the learners and make sure they have permissions to view the institution’s relevant data.
+- **Instruction**: Provide a brief overview of the importance of the accurate and timely submission of IPEDS data. Inform learners that they will be working together to discover how the completion process works, sharing insights with one another and collaborating to complete a mock survey. Emphasize that learners will be responsible for their knowledge of how to complete the survey but that the instructor will be on hand to guide, prompt, and answer questions. Organize learners into groups of 3-4 people.
+
+**2. Highlight Language as a Learning Tool**
+
+**Activity**: Distribute resources, highlight cultural tools, and promote discussion.
+
+- **Preparation**: Compile a list of resources for learners to use as they discover how to complete the survey. Include links to online resources from the National Center for Education Statistics (NCES) as well as files containing previous years’ data submissions. Also prepare a glossary of important terms and definitions related to the graduation rates surveys (e.g., cohort, 200% of time, exclusions).
+- **Instruction**: In groups, have learners work through the survey together. They will become familiar with the language and cultural tools available for survey completion as they use the provided resources. Prompt learners to discuss within their groups the different contexts in which institutional data can be used. Encourage learners to share how they interpret each portion of the survey and how they believe the process should go.
+
+**3. Teach in the Zone of Proximal Development (ZPD)**
+
+**Activity**: Learners will complete a mock survey with individualized support.
+
+- **Preparation**: Prepare a practice survey to mirror the sections and data fields contained in an actual IPEDS graduation rates survey. Create a report in Power BI that contains mock institutional data for learners to use as they fill out the survey.
+- **Instruction**: Begin with a brief demonstration of how to fill out the first section of the survey, including how to navigate to the different portions of the survey and use the Power BI report to gather relevant data. Provide each learner with a mock survey to complete. Assign learners to work through the sections of the survey on their own, but provide scaffolding. Let them know they can ask their peers for help, seek assistance from the instructor, and use all available resources. Facilitate their learning, providing guidance only when necessary. Offer feedback and guidance based on individual learners’ needs.
+
+**4. Assess Learning with a Final Survey**
+
+**Activity**: Learners will complete a final practice survey.
+
+- **Preparation**: Prepare a final practice survey to mirror the sections and data fields contained in an actual IPEDS graduation rates survey. Create another report in Power BI that contains mock institutional data for learners to use as they fill out the final survey.
+- **Instruction**: Provide learners with a final mock survey to complete for assessment. Reiterate the importance of accuracy in reporting. Encourage learners to use their available resources to fill out the survey, including links, glossaries, and peer discussions. Be available for support, monitor progress, and offer feedback and guidance as needed.
+
+**Explanation of Instruction**
+
+The design of this instruction incorporates the fundamental assumptions of Socioculturalism. At the beginning of the instruction, a collaborative environment is created that prioritizes social interaction’s role in learning. After being introduced to the IPEDS graduation rates survey, learners work together in groups to discover how to complete the survey. While they will complete a mock survey independently afterwards, they will be able to use their peers and instructor as resources. In addition to collaborative resources, learners will also be provided with glossaries, previous surveys, and other online resources to help them with survey completion, highlighting language as a learning tool.
+
+As learners complete a mock survey, they will work in the Zone of Proximal Development (ZPD). The instructor will start with a guided demonstration using the first section of the survey, after which learners complete the rest of the mock survey. They are encouraged to engage in discussions with their group, and the instructor provides scaffolding in the form of individualized guidance and feedback. A final survey to assess learning allows learners to apply their knowledge with a new set of data, with feedback provided to ensure they can accurately complete an IPEDS graduation rates survey in a real-world scenario.

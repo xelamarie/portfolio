@@ -1,0 +1,54 @@
+**Theory name: Cognitive Load Theory**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Postsecondary administrators responsible for IPEDS reporting
+
+**Learning Objective**:
+
+1. (LO1) Identify each step required in the IPEDS Graduation Rates survey process.
+2. (LO2) Enter and review institutional data correctly within the survey system.
+3. (LO3) Apply appropriate review and verification procedures to complete and lock the survey.
+
+**Steps for Instruction**
+
+**1. Reduce Extraneous Load (Supports LO1, LO2)**
+
+**Activity**: Eliminate non-essential information and distractions to focus on critical tasks.
+
+- **Preparation**: Develop simplified visuals with only essential text and graphics. Remove decorative images and background media. Apply Mayer’s coherence, signaling, and spatial/temporal contiguity principles in multimedia. Prepare a guided interface with clear navigation and visual cues. Create a job aid handout explaining key terms and icons in plain language.
+- **Instruction**: Present content using clean visuals and minimal text (LO1). Guide learners through the interface using visual cues (LO2). Embed micro-quizzes in each module with 1–2 focused items, ensuring low extraneous load. Avoid irrelevant distractors or off-topic examples.
+
+**2. Simplify Intrinsic Load (Supports LO1, LO2, LO3)**
+
+**Activity**: Break down complex tasks into smaller, manageable chunks.
+
+- **Preparation**: Create a pre-training module with IPEDS definitions, deadlines, and role expectations (LO1). Organize content into four core segments: (1) Data preparation and cohort identification, (2) Entering graduation data, (3) Verifying completeness and accuracy, (4) Locking and submitting the survey. Develop scaffolds such as partially worked examples, in-line hints, and visual data source references.
+- **Instruction**: Deliver content in segments, providing readiness quizzes for experienced learners to skip foundational material. Use brief interactive, scenario-based questions at the end of each segment (LO3). Provide immediate, explanatory feedback to reinforce correct schema-building.
+
+**3. Maximize Germane Load (Supports LO1, LO2, LO3)**
+
+**Activity**: Encourage schema construction and integration of new information.
+
+- **Preparation**: Create worked examples with instructor narration, self-explanation prompts, reflection tasks, and generative exercises such as categorization, comparison, and summarization. Develop schema-building tools like concept maps and process diagrams.
+- **Instruction**: Present worked examples with narration (LO2). Prompt learners to explain their reasoning at checkpoints (LO1). Facilitate reflection tasks connecting current practices to training content (LO3). Engage learners in generative tasks, including matching field names to definitions, analyzing flawed submissions, and summarizing review procedures. Use interactive elements such as drag-and-drop classification and highlight-the-error activities.
+
+**4. Practice and Assessment (Directly Measures LO1, LO2, LO3)**
+
+**Activity**: Provide applied practice with opportunities for feedback.
+
+- **Preparation**: Develop mini-quizzes, simulations, and interactive polls for formative assessment. Prepare a final IPEDS simulation with dummy data and intentional data anomalies.
+- **Instruction**: Administer formative assessments throughout modules, providing real-time feedback. For the summative assessment, have learners complete a full mock Graduation Rates survey in a sandboxed environment (LO2, LO3). Include anomalies to test review and error-identification skills. Score based on completion accuracy, error flagging with rationale, and adherence to correct verification and submission steps.
+
+**5. Conclusion and Performance Support (Reinforces LO1, LO2, LO3)**
+
+**Activity**: Summarize learning and provide ongoing reference tools.
+
+- **Preparation**: Create a printable step-by-step checklist, a downloadable data definitions guide, and an editable SOP template.
+- **Instruction**: Recap the three types of cognitive load and how they were addressed in the training. Provide performance support tools for future use. Prompt learners to reflect on which survey step they will prioritize more carefully after the training (LO3).
+
+**Explanation of Instruction**
+
+This instructional design is grounded in the principles of Cognitive Load Theory, focusing on managing working memory by reducing extraneous load, simplifying intrinsic load, and maximizing germane load. Reducing extraneous load is achieved through clean visuals, streamlined navigation, and multimedia principles to keep attention on critical survey steps. Intrinsic load is simplified with segmented content, pre-training, and scaffolds to help learners progress without overload. Germane load is increased t...
+
+Reflection prompts, self-explanation activities, and generative learning tasks build meaningful schemas by linking new information to prior knowledge. The final survey simulation allows learners to apply skills with minimal scaffolding, demonstrating mastery through accurate data entry, thorough review, and proper survey locking. Each learning objective is addressed: identifying steps (LO1), entering and reviewing data accurately (LO2), and applying verification before submission (LO3).

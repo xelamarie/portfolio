@@ -1,0 +1,40 @@
+Instructional Design Plan: IPEDS Survey Training Using Gibson’s Ecological Approach to Learning
+
+1. Learning Objectives
+By the end of this training, participants will be able to:
+• Detect key affordances in the IPEDS reporting interface and related institutional tools.
+• Respond to reporting prompts, system cues, and feedback in real time.
+• Apply IPEDS guidelines accurately within authentic reporting environments.
+
+2. Ecological Theory in Action
+This training is grounded in Gibson’s Ecological Approach to Learning, which emphasizes the importance of direct perception and learning through interaction with real environments. In this view, learners don’t need to construct abstract internal representations to act—they instead perceive and act upon affordances, or opportunities for action, directly in their environment.
+The instructional design avoids decontextualized lecture-style learning and instead immerses participants in an authentic reporting ecosystem. Learners interact with realistic tools, datasets, interfaces, and timelines that reveal the structure of the task through natural cues and constraints. Instead of passively receiving information, learners actively explore and perceive relevant data relationships, task affordances, and environmental feedback that guide decision-making during IPEDS reporting.
+
+3. Instructional Strategies
+• Perception-action coupling: Learners work directly with mock IPEDS platforms or interfaces that simulate institutional conditions.
+• Authentic environments: All practice activities take place within a contextualized simulation—complete with realistic datasets, institutional branding, and deadlines.
+• Feedback-rich environments: Immediate feedback is provided through system prompts, reporting errors, and peer/instructor input that mimics real-world reporting support.
+• Environmental scaffolds: Templates, pre-formatted spreadsheets, and visual cues are built into the tasks—not as separate instruction, but as embedded supports learners naturally detect and respond to.
+
+4. Learning Activities
+• Interface Walkthrough (assesses detect): Learners explore a simulated IPEDS reporting system to identify key affordances (e.g., tooltips, validation prompts, section headers). Facilitators challenge learners to point out what features offer clues for what to do next.
+• Data Troubleshooting Drill (assesses respond): Participants are given partially completed datasets containing subtle errors or missing values. They must interact with the system or facilitator to respond appropriately, correcting errors using available environmental cues.
+• End-to-End Simulation (assesses apply): Working within a full IPEDS mock submission platform, learners apply their knowledge to complete a full reporting cycle—selecting the correct categories, uploading institutional data, and responding to any system flags or missing inputs.
+
+5. Assessment Methods
+Formative Assessments:
+• During exploratory tasks, facilitators conduct observational checklists as learners detect and respond to system features.
+• A brief verbal debrief allows learners to explain what they noticed and how it helped them proceed.
+Summative Assessment:
+• In the final simulation, learners are assessed on their ability to apply IPEDS requirements using embedded system tools and supports. Accuracy, timing, and appropriateness of responses to affordances (like system alerts) are evaluated.
+
+6. Evaluation of Training Impact
+• Pre- and post-training task audits: Compare how efficiently and accurately learners interact with the IPEDS interface before and after training.
+• User feedback forms: Evaluate how “real” the training environment felt and how easily learners transferred training into actual work contexts.
+• Behavioral observations: Track whether learners begin to rely more on embedded affordances (rather than external instructions) over time—indicating a shift toward ecological learning patterns.
+
+EXPLANATION OF INSTRUCTION
+
+This training is grounded in Gibson’s Ecological Approach to Learning, which emphasizes the idea that learners perceive actionable information directly from their environment. Rather than relying on abstract instruction, this design places participants in a realistic, interactive reporting environment where they can detect affordances (i.e., visual cues, system prompts, and data templates) that naturally guide them toward successful IPEDS survey completion. By allowing learners to explore and interpret these affordances in context, the training supports authentic understanding of how the reporting system functions, enabling learners to act without relying solely on memorization or step-by-step directions.
+
+The design includes perception-action coupling, encouraging learners to respond in real time to simulated system feedback and incomplete datasets. Tasks are grounded in authentic environments, mirroring the structure, tools, and timelines used in actual IPEDS reporting. Learners apply IPEDS guidelines using embedded supports like color-coded alerts and pre-formatted spreadsheets. These are designed to be naturally perceived, not explicitly taught. This instructional approach leverages direct interaction with tools and tasks, allowing learners to build confidence and competence through situated experience, realistic feedback, and active environmental engagement.

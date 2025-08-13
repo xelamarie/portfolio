@@ -1,0 +1,61 @@
+**Theory name: Information Processing Theory**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Postsecondary administrators responsible for IPEDS reporting
+
+**Learning Objective**:
+
+1. (LO1) Identify the key steps involved in completing the IPEDS Graduation Rates survey.
+2. (LO2) Demonstrate the ability to accurately enter data into each section of the IPEDS Graduation Rates survey.
+3. (LO3) Apply error-checking strategies to review and lock the survey.
+
+**Steps for Instruction**
+
+**1. Capture Attention (Supports LO1)**
+
+**Activity**: Direct learners’ focus and prime them for learning.
+
+- **Preparation**: Prepare a scenario-based question, real-world case study, and a visual flowchart overviewing survey steps.
+- **Instruction**: Pose a scenario-based question such as “What happens if the IPEDS submission is late or incorrect?” Present a real-world case showing the consequences of submission errors (e.g., withheld federal aid, flawed public data). Display a visual flowchart to create a high-level mental model of the IPEDS Graduation Rates survey steps (LO1). Eliminate distractions by using clean layouts, minimal text, and focused visuals.
+
+**2. Support Encoding (Supports LO1, LO2, LO3)**
+
+**Activity**: Help learners process and store information into long-term memory.
+
+- **Preparation**: Create narrated walkthroughs of each survey section with side-by-side visuals, model data entry tasks, and prepare guided practice exercises using sample data.
+- **Instruction**: Use dual coding by combining narrated visuals for each survey section (LO1). Demonstrate how to locate source data and enter it correctly into the IPEDS interface (LO2). Model common error-checking techniques, such as cross-referencing cohort definitions and reviewing totals before locking (LO3). Include guided practice for each section with corrective feedback (LO2, LO3). Reinforce accuracy by prompting learners to explain their choices during guided examples.
+
+**3. Manage Cognitive Load (Supports LO1, LO2)**
+
+**Activity**: Help learners process information without overload.
+
+- **Preparation**: Organize content into modular sections and design short quizzes or check-ins for each.
+- **Instruction**: Break the training into modules such as “Cohort Selection,” “Data Entry,” and “Review and Lock.” Use chunking to introduce no more than 3–5 related tasks at a time (LO1). Incorporate short quizzes or check-ins after each module to support information retention and transfer (LO2). Use consistent visual cues to help learners focus on relevant information.
+
+**4. Activate Schemas (Supports LO1, LO2, LO3)**
+
+**Activity**: Connect new content with learners’ existing knowledge for deeper processing.
+
+- **Preparation**: Create prompts, discussion activities, and analogy examples.
+- **Instruction**: Begin with a prompt such as “Think back to your last compliance report—what steps did you follow to ensure accuracy?” Have learners share past experiences in a poll or small group discussion. Use analogies to make abstract steps concrete (e.g., “Locking the IPEDS survey is like hitting submit on your taxes—only after careful review”). Prompt learners to verbalize their thinking while working through mock examples (LO2, LO3). Learners draft personal SOP checklists or flowcharts to demonstrate ...
+
+**5. Practice and Assessment (Directly Measures LO1, LO2, LO3)**
+
+**Activity**: Reinforce learning through practice, feedback, and application.
+
+- **Preparation**: Prepare sectional simulations of IPEDS with dummy data, error scenarios, and final assessment materials.
+- **Instruction**: Have learners complete sectional simulations of IPEDS using dummy data (LO2). Include common error scenarios such as missing gender breakdowns (LO3). Provide immediate feedback and explanations for corrections. For the final assessment, learners complete a full mock IPEDS Graduation Rates survey, entering and reviewing data across all sections (LO2, LO3). Include a knowledge check covering survey steps, sequence, and roles (LO1). Require learners to perform a self-review and lock step usin...
+
+**Conclusion and Reflection (Reinforces LO1, LO2, LO3)**
+
+**Activity**: Support long-term retention and reflective practice.
+
+- **Preparation**: Create a visual checklist handout and reflection prompts.
+- **Instruction**: Recap the key Information Processing Theory strategies used in the training: dual coding, chunking, schema activation, and practice with feedback. Prompt learners to reflect on which section of the survey they feel most confident completing and why. Provide a visual checklist summarizing key steps and review points for future recall. Encourage learners to create a personal or team SOP for future IPEDS reporting (LO1, LO3).
+
+**Explanation of Instruction**
+
+This instructional design is grounded in the principles of Information Processing Theory, focusing on how learners take in, process, and store information. The lesson begins by capturing attention through real-world consequences and high-impact visuals, directing focus to key elements needed for successful reporting (LO1). As information enters the sensory register, dual-coding techniques such as narrated flowcharts help transfer content into short-term memory. Learners are guided through each section o...
+
+To avoid overwhelming learners, the training uses chunking to break complex tasks into smaller, manageable steps, reducing cognitive load and improving processing efficiency. Learners activate prior schemas by reflecting on past compliance tasks and explaining their reasoning during practice, strengthening the connection between new and existing knowledge (LO3). A final simulation allows learners to retrieve and apply what they have learned with minimal scaffolding, demonstrating mastery of the process....

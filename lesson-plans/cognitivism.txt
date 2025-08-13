@@ -1,0 +1,53 @@
+**Theory name: Cognitivism**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Administrators at postsecondary institutions
+
+**Learning Objective**:
+
+1. Learners will correctly identify, in a knowledge check, the steps involved in completing the Graduation Rates survey
+2. Learners will accurately complete and lock the survey
+
+**Steps for Instruction**
+
+**1. Perception**
+
+**Activity**: Provide an overview of the IPEDS graduation rates survey
+
+- **Preparation**: Create an attention-grabbing visual that depicts the significance of accurate IPEDS reporting (i.e., showing the share of students who receive federal financial aid). Prepare additional multimedia such as a high-level diagram of the survey process with an accompanying voice that gives a brief overview of how the survey is to be completed.
+- **Instruction**: Begin by emphasizing the need for accurate and timely submission of IPEDS data. Show the visual of the share of students who would be negatively impacted if the institution did not fulfill its responsibility of data submission. Have learners watch and listen to the narrated voice explaining the high-level diagram that introduces the steps of survey completion.
+
+**2. Executive Processes**
+
+**Activity**: Have learners set goals and plan strategies to achieve them
+
+- **Preparation**: Have learners commit on paper to being responsible for the accurate and timely submission of IPEDS graduation data and have them set SMART learning goals for themselves (i.e., “I will know where to find the required data by the end of the section”, “I will triple check each number right after I enter it,” etc.). Have them write these goals down, along with strategies to achieve them. Create quizzes for each instructional section. Incorporate immediate feedback messages into the quizzes that explain to learners why an answer was correct or incorrect.
+- **Instruction**: Present the key steps involved in completing the IPEDS graduation rates survey, section by section. For each section, incorporate a quiz to hold the learners’ attention. After each quiz, provide immediate and meaningful feedback so learners know if adjustments need to be made to the way they are processing the new information. Learners will also be encouraged to revisit their goals during each instructional section.
+
+**3. Short-term Memory or Working Memory**
+
+**Activity**: Present a step-by-step guide to completing the survey
+
+- **Preparation**: Using the previous high-level diagram showing an overview of the process, add bullet points providing detail at each step.
+- **Instruction**: Break the information down into smaller segments, presenting the key steps involved in completing the IPEDS graduation rates survey one section at a time. Using the prepared diagram, introduce a step and then pause to explain the specific tasks (beginning with basic tasks and moving to more complex ones) required for that section. Also show learners what the corresponding form for that section looks like in the survey. After each section, have learners take a quiz to check their understanding.
+
+**4. Encoding**
+
+**Activity**: Discussion on experience with data entry and compliance reporting
+
+- **Preparation**: Create some visuals using marked-up screenshots of good data entry vs. bad data entry. Prepare a screenshot from College Navigator showing CWI’s publicly available data sourced from IPEDS.
+- **Instruction**: Pose questions or prompts to learners such as, “Have you ever had to report institutional data?” or “Think back to a time when you made a mistake in your data entry. What consequences did it have?” Invite learners to think about their own experiences with data and reporting and share their insights with each other. Show prepared visuals of good data entry vs. bad data entry. Explain the impacts data entry can have on publicly available data and transparency while showing CWI's data taken from the College Navigator website. Finally, encourage learners to think about how they can create their own mental models of the survey process based on their previous experiences with data entry and compliance reporting (or similar).
+
+**5. Long-term Memory**
+
+**Activity**: Complete practice surveys and submit a final graduation rates survey
+
+- **Preparation**: Create sample versions of survey sections for learners to work on in order to practice. Incorporate feedback. Prepare a final knowledge check on the entire survey process. Prepare a final survey for learners to complete to demonstrate their learning and be assessed.
+- **Instruction**: After each section, have learners apply what they have learned by filling out a sample survey with dummy data. They will receive immediate feedback on their entries. Give a final review of all of the elements of the survey and as an activity, have learners do a knowledge check on the steps and tasks required. Have learners complete the sample survey in its entirety. The instructor will assess the accuracy of this final submission and provide feedback.
+
+**Explanation of Instruction**
+
+The design of this instruction incorporates the fundamental assumptions of Cognitivism. Emphasis is placed on learners taking an active part in the processing of information. During **Perception**, the importance and significance of IPEDS reporting is introduced in a way that captures the attention of learners and sets the stage for the learning process. Attention is reinforced through multimedia such as visuals and a narrated overview of the survey process. **Executive Processes** happen when learners think about and set SMART goals, plan strategies to achieve them, and track the progress of their goals related to survey completion. Routine quizzes can hold the learners’ attention and immediate feedback on those quizzes allows learners to make adjustments to their learning strategies where needed.
+
+During the **Short-term Memory or Working Memory** stage, lesson material is broken down into smaller segments to reduce cognitive load for the learners. Each step in the survey completion process is addressed separately and outlined in detail. Quizzes at the end of each segment will be administered in order to reinforce retention. **Encoding** happens when learners reflect on their past experiences with data entry and compliance reporting. The new knowledge they receive during the instruction is integrated with their existing knowledge of data reporting. Learners also make connections between the quality of data entry and potential consequences. Finally, during the **Long-term Memory** stage, learners retrieve and apply what they have learned by practicing with sample surveys. Again, immediate feedback is provided to reinforce learning. A final assessment is given to learners that tasks them with completing an entire IPEDS graduation rates survey to gauge if they are able to complete it independently.

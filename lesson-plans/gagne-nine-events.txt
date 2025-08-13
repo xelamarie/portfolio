@@ -1,0 +1,82 @@
+**Theory name: Gagné’s Nine Events of Instruction**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Postsecondary administrators or institutional research staff tasked with IPEDS Graduation Rates survey completion
+
+**Learning Objective**:
+
+1. (LO1) Identify each step involved in completing the IPEDS Graduation Rates survey.
+2. (LO2) Accurately enter and review institutional data in the IPEDS system.
+3. (LO3) Apply correct review procedures and submit the survey for final lock.
+
+**Steps for Instruction**
+
+**1. Gain Attention**
+
+**Activity**: Use high-impact, real-world visuals to demonstrate the importance of IPEDS accuracy.
+
+- **Preparation**: Prepare visuals such as a news article or government website showing how IPEDS data affects public perception and funding, and a short video highlighting the impact of incorrect data.
+- **Instruction**: Show the visuals and video to trigger interest and establish relevance (supports LO1, LO2).
+
+**2. Inform Learners of Objectives**
+
+**Activity**: Present the learning objectives and invite predictions.
+
+- **Preparation**: Create a slide clearly listing the learning objectives.
+- **Instruction**: Present objectives starting with “By the end of this training, you will be able to…” Ask learners to predict steps or challenges in completing the Graduation Rates survey. This provides structure and context for what is coming (supports LO1–LO3).
+
+**3. Stimulate Recall of Prior Knowledge**
+
+**Activity**: Connect new content with learners’ existing mental models.
+
+- **Preparation**: Prepare a brief discussion prompt and a College Navigator screenshot of their institution’s public data.
+- **Instruction**: Ask learners if they have entered compliance data before and what made it easier or harder. Show the screenshot and discuss what data errors might imply (supports LO2).
+
+**4. Present the Stimulus Material**
+
+**Activity**: Introduce the survey process with visual and modular content.
+
+- **Preparation**: Create a step-by-step diagram of the IPEDS survey process segmented into four modules: (1) Identifying the correct cohort, (2) Entering graduation data, (3) Reviewing for accuracy, and (4) Locking and submitting.
+- **Instruction**: Deliver the content logically and efficiently, focusing on skill-building (supports LO1, LO2).
+
+**5. Provide Learner Guidance**
+
+**Activity**: Scaffold learners through the process.
+
+- **Preparation**: Develop narrated walkthroughs, annotated screenshots, decision trees for tricky scenarios, checklists, and field definition handouts.
+- **Instruction**: Guide learners through each IPEDS section with these supports (supports LO2, LO3).
+
+**6. Elicit Performance**
+
+**Activity**: Have learners practice completing sections of the survey.
+
+- **Preparation**: Create dummy data and partial IPEDS survey sections for practice.
+- **Instruction**: Learners complete scenario-based entries after each module, such as “What should be entered if a student withdrew after 90 days?” This builds fluency in a low-stakes environment (supports LO2).
+
+**7. Provide Feedback**
+
+**Activity**: Offer immediate and constructive feedback.
+
+- **Preparation**: Prepare automated feedback for knowledge checks and guidelines for instructor or peer review during activities.
+- **Instruction**: Deliver feedback during practice, explaining why correct or incorrect entries matter (supports LO2, LO3).
+
+**8. Assess Performance**
+
+**Activity**: Administer a final performance assessment.
+
+- **Preparation**: Create a fillable mock Graduation Rates survey form with built-in checks and a scoring rubric.
+- **Instruction**: Learners complete the full survey simulation, evaluated for accuracy, completeness, and adherence to process (directly measures LO1–LO3).
+
+**9. Enhance Retention and Transfer**
+
+**Activity**: Assign tasks to support long-term application.
+
+- **Preparation**: Prepare case studies of common IPEDS errors, SOP templates, and job aids.
+- **Instruction**: Have learners identify and correct errors in case studies, build their own SOP for survey preparation, and reflect on learning goals. Provide job aids and invite learners to quarterly refreshers before reporting deadlines (supports LO3).
+
+**Explanation of Instruction**
+
+This instructional design is grounded in Gagné’s Nine Events of Instruction, aligning external strategies with internal cognitive processes to optimize learning. The lesson begins by gaining attention through real-world examples of IPEDS impact, followed by a clear statement of objectives to provide a roadmap for learning (LO1–LO3). Recall of prior knowledge is stimulated through discussion and analysis of existing data, linking past experiences to new tasks. Content is presented in structured modules with ...
+
+Learners receive guidance via annotated visuals, checklists, and decision trees, and practice with scenario-based entries to build confidence (LO2). Feedback is immediate and targeted, correcting misconceptions and reinforcing correct processes (LO3). The summative assessment confirms learners can complete the survey independently and accurately (LO1–LO3). Retention and transfer are supported through case studies, SOP creation, and periodic refreshers, ensuring learners can apply skills in future reporti...

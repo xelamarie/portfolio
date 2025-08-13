@@ -1,0 +1,58 @@
+**Theory name: Operant Conditioning (B.F. Skinner)**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Administrators at Postsecondary Institutions
+
+**Learning Objective**:
+
+1. [LO1] Learners will accurately identify all required steps involved in completing the IPEDS Graduation Rates Survey by scoring at least 90% on a knowledge check.
+2. [LO2] Learners will enter dummy data into a simulated IPEDS Graduation Rates Survey and submit it with zero critical errors, as evaluated by a scoring rubric.
+3. [LO3] Learners will demonstrate consistent use of a data verification process (e.g., checklist or review prompt) in 100% of survey sections during practice activities.
+
+**Steps for Instruction**
+
+**1. Establish the Target Behavior and Set Up Reinforcement Structure**
+
+**Activity**: Explain expectations, define correct survey behaviors, and introduce the reinforcement schedule.
+
+- **Preparation**: Create a behavior contract or digital dashboard outlining how learners earn points or badges for completing key tasks correctly.
+- **Instruction**: Introduce desired behaviors such as accurate entry, step completion, and checklist use. Explain that correct behaviors will be positively reinforced with immediate feedback, points, badges, or praise. Clarify that critical errors result in constructive correction, which may include a mild negative punishment such as loss of a point or requiring a retry. This stage sets the behavioral stage and motivation framework for all learning objectives. There is no direct assessment at this st...
+
+**2. Positive Reinforcement Through Shaping**
+
+**Activity**: Teach survey steps by breaking them into small, achievable components and reinforcing progress.
+
+- **Preparation**: Design a task sequence (e.g., Step 1: Define cohort → Step 2: Apply exclusions → Step 3: Enter completions).
+- **Instruction**: Present one step at a time. After each correct response or action, provide immediate positive reinforcement such as a sound, message, or visual badge. Use shaping to guide learners toward more complex behaviors by reinforcing incremental improvements.
+- **Assessment**: [LO1] Knowledge check follows this segment. Learners must identify all required steps with 90% or higher accuracy. Assessment placement is after the shaping sequence.
+
+**3. Reinforcement of Accurate Performance in Simulated Practice**
+
+**Activity**: Learners complete mock sections of the survey with embedded reinforcement mechanisms.
+
+- **Preparation**: Create simulated survey modules that provide immediate consequences for correct or incorrect actions.
+- **Instruction**: Provide small sections of the survey and dummy data. Deliver reinforcement for correct entries such as points, visual progress bars, or praise from the facilitator. Implement negative reinforcement by removing annoying alerts only when data is verified correctly.
+- **Assessment**: [LO2] Learners submit simulated survey sections with zero critical errors. [LO3] Learners must complete a verification checklist for each section. Assessment occurs after each section, scored by rubric and checklist adherence.
+
+**4. Generalization and Schedules of Reinforcement**
+
+**Activity**: Learners complete a full simulated survey with fewer cues and variable reinforcement.
+
+- **Preparation**: Simulate the full IPEDS platform experience using institutional-style data.
+- **Instruction**: Learners work more independently. Provide reinforcement on a variable ratio schedule so that not every correct behavior is reinforced, but reinforcement is still given unpredictably. Reward complete, error-free submissions with a certificate or recognition.
+- **Assessment**: [LO2] Demonstrated by accurately completing a full mock survey. [LO3] Maintained by consistent use of the checklist across all sections. Final full simulation is scored via rubric and checklist.
+
+**5. Maintenance and Avoiding Extinction Through Refresher Training**
+
+**Activity**: Periodic booster sessions with reinforcement to maintain behavior.
+
+- **Preparation**: Design mini-quizzes and partial survey simulations that can be completed quarterly.
+- **Instruction**: Provide low-stakes practice with immediate feedback and reinforcement. Use intermittent reinforcement to prevent extinction of correct behaviors. Include small incentives such as digital badges or public recognition to maintain motivation.
+- **Assessment**: [LO1] Periodic review quizzes reinforce step knowledge. [LO2 & LO3] Mini-simulations reinforce accuracy and quality control practices. Assessment placement is through spaced, low-stakes activities administered throughout the year.
+
+**Explanation of Instruction**
+
+This instructional design is grounded in the principles of Operant Conditioning, using a structured sequence of positive reinforcement, shaping, immediate feedback, and clear behavior-consequence relationships to build accurate and consistent survey completion behaviors. The lesson begins by clearly defining the desired actions such as completing steps in order and verifying data, and establishing contingencies of reinforcement—correct actions are followed by reinforcing consequences such as praise, bad...
+
+To promote long-term retention and real-world transfer, the design gradually introduces intermittent and variable reinforcement schedules, decreasing reliance on external rewards while still maintaining motivation. A full survey simulation provides opportunities for learners to practice the complete task with fewer cues and more authentic conditions, while still receiving reinforcement tied to task completion and accuracy. Ongoing spaced practice, booster activities, and low-stakes performance checks are...

@@ -1,0 +1,90 @@
+Instructional Plan: IPEDS Survey Completion Training
+Target Audience: Postsecondary administrators and institutional research staff responsible for IPEDS reporting.
+Training Modality: Blended (online modules + live virtual or in-person workshops)
+Estimated Duration: 4–6 hours total, delivered over 2–3 sessions
+
+Learning Objectives
+By the end of this training, participants will be able to:
+1. Identify the key components, timelines, and interdependent roles involved in completing IPEDS surveys.
+2. Execute the core actions of data collection, validation, and entry using tools and procedures appropriate to their institution.
+3. Evaluate the completeness and accuracy of IPEDS data submissions in the context of institutional and federal compliance.
+
+Theoretical Foundation: Activity Theory in Action
+Activity System Components:
+• Subject: Institutional research staff and administrators
+• Object (Goal): Accurate, compliant, and timely IPEDS survey submissions
+• Outcome: Institutional data quality and federal compliance
+• Tools: Institutional data systems, IPEDS interface, templates, glossaries, checklists
+• Community: IR team, finance, academic units, IT staff
+• Rules: IPEDS definitions, federal timelines, institutional policies
+• Division of Labor: Differentiated roles such as gatherer, validator, submitter
+
+Learner Application:
+Participants complete a "Map Your System" worksheet, identifying how their institution approaches IPEDS reporting—its tools, roles, workflows, and bottlenecks.
+Learning Objective Assessed:
+• Identify roles, timelines, and components of the survey process
+
+Instructional Strategies with Experiential Focus
+1. Role-Based Practicum Simulation
+   o Participants rotate through key reporting roles: Data Gatherer, Data Validator, Entry Specialist, and Compliance Reviewer.
+   o The simulation is based on a realistic IPEDS scenario with challenges such as missing data, ambiguous definitions, and an upcoming deadline.
+   Learning Objectives Assessed:
+   o Execute core actions in each role
+   o Evaluate data quality and completeness during final review
+
+2. Collaborative Group Work
+   o Small teams simulate a full IPEDS reporting cycle using a mock dataset.
+   o Teams document data sources, justify decisions, and work toward a complete mock submission.
+   Learning Objectives Assessed:
+   o Execute data collection and entry tasks
+   o Evaluate submission readiness during group review
+
+3. Tool-Mediated Learning
+   o Participants are guided in using actual tools that support IPEDS reporting, such as:
+     - A validation checklist
+     - A glossary of IPEDS terms
+     - A step-by-step reporting template
+   Learning Objectives Assessed:
+   o Execute reporting actions using appropriate tools
+   o Evaluate data quality based on tool-supported checks
+
+4. Reflective Learning
+   o After each round of simulation, learners complete both an individual and team reflection.
+   o Reflections focus on how their role contributed to the process, what challenges emerged, and how collaboration and tools affected their outcome.
+   Learning Objectives Assessed:
+   o Evaluate the impact of individual and group contributions on reporting quality
+
+Learning Activities
+Activity	Type	Learning Objectives Assessed
+Map Your Institutional System	Reflective and analytical	Identify institutional tools and roles
+Role-Based Simulation	Experiential and collaborative	Execute, Evaluate through realistic practice
+Group IPEDS Reporting Challenge	Scenario-based, team-driven	Execute, Evaluate in simulated project
+Peer Feedback and Reflection	Reflective and social	Evaluate teamwork, accuracy, and decision-making
+Final Practicum Submission	Performance-based	All three: Identify, Execute, Evaluate
+
+Assessment Methods
+Formative Assessments:
+• Knowledge checks following the system-mapping activity
+• Guided practice with feedback during simulations
+• Group discussion and tool-based practice assessments
+Summative Assessment:
+• Final practicum project including:
+  - Completed mock IPEDS submission
+  - Annotated decisions with supporting tools
+  - Group reflection on process and accuracy
+
+Rubric Measures:
+• Correct identification of data elements and reporting roles (Identify)
+• Accurate execution of reporting tasks and tool usage (Execute)
+• Thoughtful evaluation of data quality, completeness, and collaboration (Evaluate)
+
+Evaluation of Training Impact
+• Pre- and post-training self-assessments on confidence and IPEDS task proficiency
+• Peer and facilitator feedback on role performance and collaboration
+• Optional audit of real IPEDS submissions for improved accuracy and process efficiency
+• Follow-up survey on how training applied to actual reporting tasks at participants’ institutions
+
+EXPLANATION OF INSTRUCTION
+This training is built around Leontiev’s Activity Theory, focusing on how people learn best by actually doing the task and seeing how their role fits into a bigger system. Since IPEDS reporting involves lots of moving parts (i.e., tools, people, deadlines, and rules), the training lets learners step into those real roles and experience what it’s like. They start by mapping their own institutional activity system, then move into hands-on practice through role-based simulations, switching between data gatherer, validator, and submitter. The idea is to make the process feel real and familiar, not just something they read about.
+
+The instruction uses simulations, mediating tools, collaborative group work, and structured reflection so learners can actually try out the skills they need, with built-in support along the way. The training includes things like checklists, cheat sheets, and guided reflections to help them think through what they’re doing and why it matters. There’s room to mess up and talk it through with a group, just like in real reporting cycles. By rotating through roles and tackling realistic scenarios together, they get a feel for how the whole system works, not just their part. This helps the learning stick and builds confidence.

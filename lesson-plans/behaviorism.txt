@@ -1,0 +1,63 @@
+**Theory name: Behaviorism**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Administrators at postsecondary institutions
+
+**Learning Objective**:
+
+1. Learners will correctly identify the steps involved in completing the Graduation Rates survey
+
+2. Learners will accurately complete and lock the survey
+
+**Steps for Instruction**
+
+**1. Presentation of Stimulus**
+
+**Activity**: Provide an overview of the IPEDS graduation survey
+
+- **Preparation**: Prepare a presentation that highlights the importance of IPEDS reporting and gives an overview of the data needed and all key definitions.
+
+- **Instruction**: Begin by emphasizing the need for accurate and timely submission of IPEDS data and the impact it has on the institution's federal funding and transparency. Introduce the steps of completing the survey process and define important terms that are needed to ensure correct data usage.
+
+**2. Change in Behaviors**
+
+**Activity**: Give examples of what can happen as a result of incomplete or incorrect reporting
+
+- **Preparation**: Prepare the following visuals:
+
+  - A visual depicting the amount of students at the institution receiving federal financial aid
+
+  - A screenshot of the institution's graduation rates taken from the College Navigator website
+
+- **Instruction**: In relation to the first visual, explain what would happen to all of those students receiving financial aid if IPEDS reporting wasn't submitted (the institution would be in jeopardy of losing available funds for students. Many students cannot attend without federal financial aid). In relation to the second visual, explain the impact of inaccurate information (misrepresentation of the institution, misclassification/misranking, etc.).
+
+**3. Observation of Behaviors**
+
+**Activity**: Have learners fill out a mock survey
+
+- **Preparation**: Create a mock survey and mock student data
+
+- **Instruction**: Have learners complete the mock survey using the provided data, according to the instructions received in the overview. Observe their behavior in regards to the accuracy of data entry.
+
+**4. Reinforcement and/or Punishment**
+
+**Activity**: Provide immediate feedback
+
+- **Preparation**: Create an automated feedback system where a learner receives feedback on a specific data field before moving on to the next field. The system will provide positive feedback for correct answers and negative feedback for incorrect answers.
+
+- **Instruction**: When a student submits an answer in the mock survey, correct answers are acknowledged with "Correct! Your accuracy is impressive." Incorrect answers are acknowledged with "Oops! You have submitted inaccurate data." These messages will encourage learners to continue with accurate entry (reinforcement) or to be more careful so they are not called out for inaccuracies (punishment).
+
+**5. Assessment of Observable Behaviors**
+
+**Activity**: Complete and submit an entire Graduation Rates Survey
+
+- **Preparation**: Prepare a sample version of the entire survey for learners to complete in order to demonstrate their learning
+
+- **Instruction**: Have learners complete the sample survey in its entirety. The instructor will assess the accuracy of the submission and offer positive feedback (e.g., "You are ready for the real thing!") or negative feedback (e.g., "You are not yet ready to complete your institution's IPEDS reporting).
+
+**Explanation of Instruction**
+
+The design of this instruction incorporates the fundamental assumptions of the Behaviorism theory. There is an emphasis on changing observable learner behavior through the use of environmental influences. In the **Presentation of Stimulus** step, learners receive important information about the survey and why it needs to be taken seriously. This sets the stage for getting a desired response from the learners (accuracy in survey completion). In the **Change in Behaviors** step, learners recognize the significance of accurate reporting and realize the consequences of not reporting. Therefore, they adjust their behavior accordingly.
+
+The **Observation of Behaviors** step is where instructors track actions made by the learners. This step gives instructors the opportunity to adjust instruction if they see behavior changes that need to be made. In response to learners' behaviors, instructors can **reinforce or punish** learners by giving immediate feedback on mock survey responses through a built-in feedback system. This can come in the form of praise or corrective feedback. The idea is that learners will repeat correct behaviors and avoid mistakes. They are able to make these changes as they repeat the process of completing mock surveys and receiving feedback. They will have the opportunity to practice with different sets of data to reinforce their understanding. Finally, in the **Assessment of Observable Behaviors** step, learners complete a full survey and the instructor assesses the accuracy of the data. Again, feedback is provided that either reinforces learning through positive feedback or punishes inaccuracy with constructive criticism. In this way, learner behavior is shaped to become capable of completing the survey.

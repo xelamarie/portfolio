@@ -1,0 +1,67 @@
+**Theory name: Bloom’s Taxonomy**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+
+**Learners**: Postsecondary institutional researchers or administrative staff responsible for completing the Graduation Rates survey
+
+**Learning Objective**:
+
+1. (LO1) Identify the key steps and data elements involved in completing the IPEDS Graduation Rates survey.
+2. (LO2) Apply the correct procedures for accurate data entry and review.
+3. (LO3) Evaluate the accuracy and completeness of survey data before submission.
+
+**Steps for Instruction**
+
+**1. Remember (LO1)**
+
+**Activity**: Learners will recall essential definitions and survey components.
+
+- **Preparation**: Create flashcards and glossary terms (e.g., cohort exclusions, reporting period) and an infographic of the IPEDS Graduation Rates workflow.
+- **Instruction**: Introduce terms and visual representations to support recall.
+- **Assessment**: Administer a multiple-choice quiz with instant feedback.
+
+**2. Understand (LO1, LO2)**
+
+**Activity**: Learners will explain the purpose of each section and how the data contributes to institutional reporting.
+
+- **Preparation**: Develop matching activities linking data elements to their definitions or survey function, and discussion prompts about the survey's role in accountability.
+- **Instruction**: Facilitate matching activities and group discussions to deepen comprehension.
+- **Assessment**: Short-answer comprehension checks where learners explain what each major data element does.
+
+**3. Apply (LO2)**
+
+**Activity**: Learners will input data correctly into mock survey fields using realistic scenarios.
+
+- **Preparation**: Prepare fictional student records and mock IPEDS survey fields.
+- **Instruction**: Learners complete sections of the mock survey and respond to decision-making prompts such as “Should this student be excluded?”
+- **Assessment**: Learners submit mock data entries for review by an instructor or automated feedback tool.
+
+**4. Analyze (LO3)**
+
+**Activity**: Learners will identify discrepancies and potential errors in mock data sets.
+
+- **Preparation**: Create flawed and accurate submission examples, and an error-spotting worksheet.
+- **Instruction**: Learners compare flawed vs. accurate submissions and complete worksheets identifying issues.
+- **Assessment**: Learners write an analysis identifying and explaining 3–5 common errors and how to fix them.
+
+**5. Evaluate (LO3)**
+
+**Activity**: Learners will assess the completeness and accuracy of a peer’s mock IPEDS submission.
+
+- **Preparation**: Develop a peer review rubric.
+- **Instruction**: Facilitate peer review activities followed by a group discussion to share feedback and recommendations.
+- **Assessment**: Learners complete a review form with justification for suggested changes.
+
+**6. Create (Extra Credit)**
+
+**Activity**: Learners will design a reusable tool to support their future IPEDS survey processes.
+
+- **Preparation**: Provide templates for checklists or SOPs.
+- **Instruction**: Learners build a personal checklist or SOP for completing the Graduation Rates survey and optionally collaborate in teams to compare tools and share best practices.
+- **Assessment**: Learners submit their created tool for peer or instructor feedback and complete a reflective prompt explaining how it will improve future reporting.
+
+**Explanation of Instruction**
+
+This instructional design is grounded in Bloom’s Taxonomy, progressing learners from foundational recall to practical application, analysis, and higher-order evaluation. The training begins with Remember activities such as flashcards and definitions to introduce key IPEDS terms and survey components (LO1). The Understand phase connects these components to real-world context through matching activities and short writing prompts (LO1, LO2). At the Apply level, learners complete realistic survey entry tasks u...
+
+In Analyze, learners identify and correct common reporting errors, followed by Evaluate, where they critique peer submissions using structured feedback (LO3). The Create level extends learning by having learners develop personalized checklists or SOPs, ensuring knowledge transfer into practical tools for retention and workflow consistency.
