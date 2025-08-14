@@ -2,31 +2,31 @@
 **Topic:** Instructional Design for IPEDS Survey Completion Inspired by Violet Crawley (The Dowager Countess)**
 **Target Audience:** Postsecondary administrators responsible for IPEDS reporting
  
-** 
-1. Learning Objectives**
+
+**1. Learning Objectives**
 By the end of this training, participants will be able to:
 LO1. Describe how maintaining flow can improve focus and accuracy in IPEDS data reporting tasks.
 LO2. Complete an IPEDS reporting task that aligns the cognitive challenge with your current skill level.
 LO3. Reflect on your learning experience by noting when you felt most engaged during reporting and considering how to recreate that experience.
-** 
-2. Instructional Strategies**
-•	Set Clear Goals and Provide Immediate Feedback – Use rubrics and polling tools to anchor focus.
-•	Balance Challenge with Skill – Tasks gradually increase in complexity, matched to participant experience levels.
-•	Promote Learner Autonomy – Participants choose reporting topics, pacing, and feedback format.
-•	Facilitate Deep Engagement through Action-Awareness Merging – Use hands-on simulations and storytelling.
-•	Minimize Distractions and Support Focused Concentration – Timed work intervals and structured digital environments.
-•	Foster Risk-Taking and Loss of Self-Consciousness – Peer encouragement, low-stakes feedback.
-•	Create the Conditions for Time Distortion – Fast-paced design sprint challenges.
-•	Design Self-Rewarding Activities – Inject humor, relevance, and occasional dry wit—à la Violet Crawley.
-** 
-3. Learning Activities**
+
+**2. Instructional Strategies**
+•	**Set Clear Goals** and **Provide Immediate Feedback** – Use rubrics and polling tools to anchor focus.
+•	**Balance Challenge with Skill** – Tasks gradually increase in complexity, matched to participant experience levels.
+•	**Promote Learner Autonomy** – Participants choose reporting topics, pacing, and feedback format.
+•	**Facilitate Deep Engagement through Action-Awareness Merging** – Use hands-on simulations and storytelling.
+•	**Minimize Distractions and Support Focused Concentration** – Timed work intervals and structured digital environments.
+•	**Foster Risk-Taking and Loss of Self-Consciousness** – Peer encouragement, low-stakes feedback.
+•	**Create the Conditions for Time Distortion** – Fast-paced design sprint challenges.
+•	**Design Self-Rewarding Activities** – Inject humor, relevance, and occasional dry wit—à la Violet Crawley.
+
+**3. Learning Activities**
 •	"Mind the Flow" Icebreaker (assesses LO1): Participants hear a brief story narrated in Violet’s voice about a disastrous IPEDS error that occurred due to lack of focus. They then describe ways flow could’ve prevented the mistake.
 •	Flow Mapping Activity (assesses LO3): Learners reflect on and chart their personal moments of high focus during training and describe the conditions that made those moments engaging.
 •	Progressive IPEDS Simulation (assesses LO2): Participants complete three IPEDS data tasks, each increasing slightly in complexity. Real-time feedback and reflection questions keep them in the flow zone.
 •	Dowager’s Design Sprint (supports LO2): A time-limited team challenge where participants complete and submit mock data under pressure. Violet pops in (virtually, via quotes) with commentary to keep things sharp and witty.
 •	Choice-Based Microlearning Path (supports LO2): Participants select either a structured or exploratory version of the same task, promoting autonomy and increasing immersion.
-** 
-4. Assessment Methods**
+
+**4. Assessment Methods**
 **Formative Assessments:**
 •	Live poll reflection on the Violet scenario where learners describe the impact of flow (LO1).
 •	Flow Mapping Journal entries reflecting on ideal task conditions (LO3).
@@ -34,8 +34,8 @@ LO3. Reflect on your learning experience by noting when you felt most engaged du
 **Summative Assessment:**
 •	Final IPEDS Task Completion/Submission scored with a flow-aligned rubric (accuracy, focus, engagement) (LO2).
 •	Short reflection explaining how participants managed to stay engaged, when they lost focus, and how they’d adjust next time (LO3).
-** 
-5. Evaluation of Training Impact**
+
+**5. Evaluation of Training Impact**
 •	Post-training flow perception survey.
 •	Participant reflections on applying flow strategies to real IPEDS tasks.
 •	Optional follow-up poll 2–4 weeks later on whether they’ve changed how they approach high-focus reporting tasks.
