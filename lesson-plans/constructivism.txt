@@ -1,38 +1,40 @@
-Topic: Completing the Graduation Rates Survey for IPEDS
-Learners: Administrators at postsecondary institutions
-Learning Objective: 
+**Theory name: Cognitive Constructivism**
+
+**Topic**: Completing the Graduation Rates Survey for IPEDS
+**Learners**: Administrators at postsecondary institutions
+**Learning Objective**: 
 1.	Learners will correctly identify, in a knowledge check, the steps involved in completing the Graduation Rates survey
 2.	Learners will accurately complete and lock the survey
 
-Steps for Instruction
+**Steps for Instruction**
 
-1. Create a learner-centered environment
-Activity: Introduce learners to the IPEDS graduation rates survey and the resources available for survey completion
-•	Preparation: Compile a list of resources for learners to use as they discover how to complete the survey. Include links to online resources from the National Center for Education Statistics (NCES) as well as files containing previous years’ data submissions. Grant learners access to the institution’s Power BI report that contains the data needed to complete the survey. 
-•	Instruction: Provide a brief overview of the importance of the accurate and timely submission of IPEDS data. Share resources that are available to learners as they dig into the survey completion process. Emphasize that learners will be responsible for the construction of their knowledge of how to complete the survey but that the instructor will be on hand to guide, prompt, and answer questions. 
-•	Reflection: Invite learners to think about and share their prior experiences with institutional data and the consequences of accurate reporting. Ask questions such as, “How does accuracy in reported graduation rates impact CWI’s image?”
+**1. Create a **learner-centered environment****
+- **Activity**: Introduce learners to the IPEDS graduation rates survey and the resources available for survey completion
+•	- **Preparation**: Compile a list of resources for learners to use as they discover how to complete the survey. Include links to online resources from the National Center for Education Statistics (NCES) as well as files containing previous years’ data submissions. Grant learners access to the institution’s Power BI report that contains the data needed to complete the survey. 
+•	- **Instruction**: Provide a brief overview of the importance of the accurate and timely submission of IPEDS data. Share resources that are available to learners as they dig into the survey completion process. Emphasize that learners will be responsible for the construction of their knowledge of how to complete the survey but that the instructor will be on hand to guide, prompt, and answer questions. 
+•	- ****Reflection****: Invite learners to think about and share their prior experiences with institutional data and the consequences of accurate reporting. Ask questions such as, “How does accuracy in reported graduation rates impact CWI’s image?”
 
-2. Provide opportunities for learning through discovery
-Activity: Have learners become familiar with and complete the survey one section at a time
+**2. Provide opportunities for learning through **discovery****
+- **Activity**: Have learners become familiar with and complete the survey one section at a time
 
-Strategy A: Scaffolding
-•	Preparation: Create a visual walkthrough for the first part of the survey that demonstrates the basic structure of each section. 
-•	Instruction: Introduce learners to the first portion of the graduation rates survey (graduation rate at 150% of time). Give an overview of the process of finding and entering data for this section. Show them how the survey connects to the resources they have provided with. Ask learners how they can apply this new knowledge to future sections of the survey. Explain that the instructor will be available for guidance, but that it is up to the learner to research what is needed for subsequent portions of the survey. Feedback will be provided to help learners know if they are on the right track.  
-•	Reflection: Prompt learners to share how they plan to organize their strategies for completing the survey. Ask questions such as, “How do you plan to ensure accuracy in your data entry as you work individually on the survey?”
+**Strategy A: **Scaffolding****
+•	- **Preparation**: Create a visual walkthrough for the first part of the survey that demonstrates the basic structure of each section. 
+•	- **Instruction**: Introduce learners to the first portion of the graduation rates survey (graduation rate at 150% of time). Give an overview of the process of finding and entering data for this section. Show them how the survey connects to the resources they have provided with. Ask learners how they can apply this new knowledge to future sections of the survey. Explain that the instructor will be available for guidance, but that it is up to the learner to research what is needed for subsequent portions of the survey. **Feedback** will be provided to help learners know if they are on the right track.  
+•	- ****Reflection****: Prompt learners to share how they plan to organize their strategies for completing the survey. Ask questions such as, “How do you plan to ensure accuracy in your data entry as you work individually on the survey?”
 
-Strategy B: Project-based learning
-•	Preparation: Create sample data in Power BI and mock surveys for learners to practice with. Prepare a glossary of important terms for reference.
-•	Instruction: Instruct learners to work through the different sections of the survey using the resources they have been given. Encourage them to seek out other resources that can help them with the process (e.g., online tutorials). Learners construct their knowledge and apply it by filling in the necessary data. The instructor is available to offer guidance but will step back and allow the learners to work independently to discover how to successfully complete the survey.
-•	Reflection: Have learners reflect on their experience filling out the different sections of the survey. Prompt them with questions such as, “What was the most challenging part?”
+**Strategy B: **Project-based learning****
+•	- **Preparation**: Create sample data in Power BI and mock surveys for learners to practice with. Prepare a glossary of important terms for reference.
+•	- **Instruction**: Instruct learners to work through the different sections of the survey using the resources they have been given. Encourage them to seek out other resources that can help them with the process (e.g., online tutorials). Learners construct their knowledge and apply it by filling in the necessary data. The instructor is available to offer guidance but will step back and allow the learners to work independently to discover how to successfully complete the survey.
+•	- ****Reflection****: Have learners reflect on their experience filling out the different sections of the survey. Prompt them with questions such as, “What was the most challenging part?”
 
-3. Knowledge check
-Activity: Learners will be given a final practice survey to assess their ability to complete it with accuracy. 
-•	Preparation: Prepare a full graduation rates survey that mirrors the actual IPEDS survey. Create sample data within a Power BI report for learners to use to complete the survey. 
-•	Instruction: Administer a final knowledge check by giving learners a full graduation rates survey to fill out. Let them know that they are free to use all available resources. Emphasize again the importance of accuracy in their reporting. Provide timely and meaningful feedback, including positive feedback for correct entries and constructive feedback for incorrect entries. 
-•	Reflection: Have learners share thoughts on whether they feel ready to complete an actual IPEDS survey. “If tasked with completing the graduation rates survey tomorrow, would you feel comfortable doing so? Why or why not?”
+**3. Knowledge check**
+- **Activity**: Learners will be given a final practice survey to assess their ability to complete it with accuracy. 
+•	- **Preparation**: Prepare a full graduation rates survey that mirrors the actual IPEDS survey. Create sample data within a Power BI report for learners to use to complete the survey. 
+•	- **Instruction**: Administer a final knowledge check by giving learners a full graduation rates survey to fill out. Let them know that they are free to use all available resources. Emphasize again the importance of accuracy in their reporting. Provide timely and meaningful **feedback**, including positive **feedback** for correct entries and constructive **feedback** for incorrect entries. 
+•	- ****Reflection****: Have learners share thoughts on whether they feel ready to complete an actual IPEDS survey. “If tasked with completing the graduation rates survey tomorrow, would you feel comfortable doing so? Why or why not?”
 
-Explanation of Instruction
+**Explanation of Instruction**
 
-The design of this instruction incorporates the fundamental assumptions of Cognitive Constructivism. Emphasis is placed on the role of learners as they actively construct knowledge through discovery, independence, and hands-on experience. An important first step is creating a learner-centered environment where expectations are set and learners understand their role in the learning process. After being introduced to the IPEDS graduation rates survey, learners are given resources to help them navigate the process. The instructor explains that his or her role in the learning process is to act as a guide who will offer support, but that the learners are responsible for constructing their new knowledge. The main instruction happens when learners are provided with opportunities for learning through discovery. During this stage, initial guidance through the use of scaffolding helps learners gain context and equips them with what they need to begin their own discovery. This stage also provides opportunity for project-based learning where mock surveys are worked on by the learners using sample data. Here, they are able apply their problem solving skills and independently demonstrate their learning. 
+The design of this instruction incorporates the fundamental assumptions of Cognitive Constructivism. Emphasis is placed on the role of learners as they actively construct knowledge through **discovery**, **independence**, and **hands-on experience**. An important first step is creating a **learner-centered environment** where expectations are set and learners understand their role in the learning process. After being introduced to the IPEDS graduation rates survey, learners are given resources to help them navigate the process. The instructor explains that his or her role in the learning process is to act as a guide who will offer support, but that the learners are responsible for constructing their new knowledge. The main instruction happens when learners are provided with opportunities for learning through **discovery**. During this stage, initial guidance through the use of **scaffolding** helps learners gain context and equips them with what they need to begin their own **discovery**. This stage also provides opportunity for **project-based learning** where mock surveys are worked on by the learners using sample data. Here, they are able apply their **problem solving** skills and independently demonstrate their learning. 
 
-Throughout the instruction, reflection is integrated so that learners can assess their progress. Thought-provoking questions are asked at each stage of the learning to help them make connections and solidify their knowledge. Finally, there is a knowledge check at the close of the instruction where learners complete a full practice survey. By applying what they have learned and the knowledge they have constructed, they demonstrate their ability to accurately complete an IPEDS graduation survey. Timely and meaningful feedback is provided so learners can gauge their readiness to complete an actual survey.
+Throughout the instruction, **reflection** is integrated so that learners can assess their progress. Thought-provoking questions are asked at each stage of the learning to help them make connections and solidify their knowledge. Finally, there is a knowledge check at the close of the instruction where learners complete a full practice survey. By applying what they have learned and the knowledge they have constructed, they demonstrate their ability to accurately complete an IPEDS graduation survey. Timely and meaningful **feedback** is provided so learners can gauge their readiness to complete an actual survey.

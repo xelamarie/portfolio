@@ -1,41 +1,45 @@
-Instructional Design Plan: IPEDS Survey Training Using Vygotsky’s Sociocultural Theory
- 
-1. Learning Objectives
+**Theory name: Lev Vygotsky’s Sociocultural Learning Theory**
+
+**Topic**: IPEDS Survey Training
+
+**Learners**: Postsecondary administrators responsible for IPEDS reporting
+
+**Learning Objectives**:
 By the end of this training, participants will be able to:
 • Collaborate with peers to interpret and complete components of the IPEDS survey.
 • Explain the purpose and structure of the IPEDS survey to a colleague using institutional language and examples.
 • Apply institutional data appropriately within IPEDS reporting categories through guided group work.
- 
-2. Vygotsky’s Sociocultural Theory in Action
-This training is grounded in the belief that learning is a socially constructed process, mediated by language, cultural context, and interaction with others. IPEDS reporting is not simply a task of data entry but a culturally situated activity that requires a shared understanding of institutional norms, tools, and expectations.
-Participants will learn within their Zone of Proximal Development (ZPD)—the space where they can perform tasks with support from More Knowledgeable Others (MKOs). Facilitators will guide the learning through scaffolding techniques such as modeling report completion, prompting with guiding questions, and providing structured templates. Language-rich interactions (group dialogue, peer instruction, and collaborative reflection) will serve as the primary mechanism for constructing knowledge.
- 
-3. Instructional Strategies
-• Collaborative Learning: Learners are placed in pairs or small groups for discussions and exercises involving real-world IPEDS tasks.
-• Scaffolding: Facilitators provide guided walkthroughs, data entry templates, and real-time feedback as learners complete activities.
-• Dialogue and Co-construction: Facilitated discussions and peer explanation tasks will help learners explain survey logic and structure using institutional terminology.
-• Cultural Tool Use: Learners will use actual IPEDS reporting software, data dictionaries, and reporting calendars to mediate understanding and simulate authentic work environments.
- 
-4. Learning Activities
-• Think-Pair-Share (assesses explain): Participants reflect on how they currently approach reporting, then pair up to articulate the function and structure of the IPEDS survey.
-• Group Simulation (assesses collaborate and apply): Small groups receive mock institutional datasets and collaboratively complete different IPEDS survey sections using a shared reporting platform. Each group presents their process to peers and justifies their categorization decisions.
-• Facilitator Modeling (supports apply): The instructor walks through a sample reporting scenario, narrating decisions and inviting questions.
-• Guided Practice (supports collaborate): Pairs rotate through stations focused on different survey sections, with embedded facilitator prompts to scaffold learning.
- 
-5. Assessment Methods
-Formative Assessments:
-• Peer teaching activity where each learner must explain one IPEDS survey section to a partner using common institutional language.
-• Facilitator check-ins during group simulations to assess how learners collaborate and clarify misunderstandings in real time.
-Summative Assessment:
+
+**Vygotsky’s Sociocultural Theory in Action**:
+This training is grounded in the belief that **learning is a socially constructed process**, mediated by **language**, **cultural context**, and **interaction with others**. IPEDS reporting is not simply a task of data entry but a culturally situated activity that requires a **shared understanding** of institutional norms, tools, and expectations.  
+Participants will learn within their **Zone of Proximal Development (ZPD)**—the space where they can perform tasks with support from **More Knowledgeable Others (MKOs)**. Facilitators will guide the learning through **scaffolding techniques** such as **modeling** report completion, **prompting with guiding questions**, and **providing structured templates**. **Language-rich interactions** (group dialogue, peer instruction, and collaborative reflection) will serve as the primary mechanism for constructing knowledge.
+
+**Instructional Strategies**:
+• **Collaborative Learning** – Learners are placed in pairs or small groups for discussions and exercises involving real-world IPEDS tasks.  
+• **Scaffolding** – Facilitators provide guided walkthroughs, data entry templates, and real-time feedback as learners complete activities.  
+• **Dialogue and Co-construction** – Facilitated discussions and peer explanation tasks will help learners explain survey logic and structure using institutional terminology.  
+• **Cultural Tool Use** – Learners will use actual IPEDS reporting software, data dictionaries, and reporting calendars to mediate understanding and simulate authentic work environments.
+
+**Learning Activities**:
+• **Think-Pair-Share** (assesses *explain*): Participants reflect on how they currently approach reporting, then pair up to articulate the function and structure of the IPEDS survey.  
+• **Group Simulation** (assesses *collaborate* and *apply*): Small groups receive mock institutional datasets and collaboratively complete different IPEDS survey sections using a shared reporting platform. Each group presents their process to peers and justifies their categorization decisions.  
+• **Facilitator Modeling** (supports *apply*): The instructor walks through a sample reporting scenario, narrating decisions and inviting questions.  
+• **Guided Practice** (supports *collaborate*): Pairs rotate through stations focused on different survey sections, with embedded facilitator prompts to scaffold learning.
+
+**Assessment Methods**:
+*Formative Assessments*:  
+• Peer teaching activity where each learner must explain one IPEDS survey section to a partner using common institutional language.  
+• Facilitator check-ins during group simulations to assess how learners collaborate and clarify misunderstandings in real time.  
+
+*Summative Assessment*:  
 • Each group completes a mock IPEDS submission for a fictional institution. Groups must apply institutional data accurately and collaborate to justify where and how data points were placed. The project is submitted with a short group reflection on the experience.
- 
-6. Evaluation of Training Impact
-• Post-training feedback surveys ask learners to evaluate how well collaboration and support helped them understand the IPEDS process.
-• Facilitator observation checklists track levels of learner engagement, support needs, and successful scaffold removal during tasks.
-• Optional follow-up survey 2–4 weeks after training to assess whether the social learning model helped learners transfer skills to real reporting tasks.
 
-EXPLANATION OF INSTRUCTION
+**Evaluation of Training Impact**:
+• Post-training feedback surveys ask learners to evaluate how well **collaboration** and **support** helped them understand the IPEDS process.  
+• Facilitator observation checklists track levels of learner engagement, support needs, and successful scaffold removal during tasks.  
+• Optional follow-up survey 2–4 weeks after training to assess whether the **social learning model** helped learners transfer skills to real reporting tasks.
 
-This training is designed around Vygotsky’s Sociocultural Theory, which emphasizes that learning is inherently social and shaped by cultural tools, dialogue, and collaboration. Recognizing that IPEDS reporting is a complex institutional task often learned through mentorship and shared practice, the training creates space for participants to learn within their Zone of Proximal Development (ZPD). Learners engage in collaborative activities where they draw on the support of more knowledgeable others, including facilitators and peers, to understand and apply IPEDS concepts. Through structured interactions like think-pair-share, learners use language as a tool for meaning-making, clarifying how survey sections function and how institutional data fits into each.
+**Explanation of Instruction**:
+This training is designed around **Vygotsky’s Sociocultural Learning Theory**, which emphasizes that **learning is inherently social** and shaped by **cultural tools**, **dialogue**, and **collaboration**. Recognizing that IPEDS reporting is a complex institutional task often learned through **mentorship** and **shared practice**, the training creates space for participants to learn within their **Zone of Proximal Development (ZPD)**. Learners engage in **collaborative activities** where they draw on the support of **more knowledgeable others**, including facilitators and peers, to understand and apply IPEDS concepts. Through structured interactions like **think-pair-share**, learners use **language as a tool for meaning-making**, clarifying how survey sections function and how institutional data fits into each.
 
-Instructional strategies include scaffolding in the form of facilitator-led walkthroughs, guided prompts, and templates to reduce cognitive load and support task completion. As learners gain confidence, scaffolds are gradually removed, promoting independence and fluency in IPEDS reporting. The training leverages cultural tools, such as reporting platforms and institutional terminology, to ground learning in real-world practice. By encouraging learners to explain, collaborate, and apply what they learn in authentic group tasks, the design not only supports skill development but also promotes a shared understanding of IPEDS as a collaborative institutional responsibility.
+Instructional strategies include **scaffolding** in the form of facilitator-led walkthroughs, **guided prompts**, and **templates** to reduce cognitive load and support task completion. As learners gain confidence, **scaffolds are gradually removed**, promoting **independence** and **fluency** in IPEDS reporting. The training leverages **cultural tools**, such as reporting platforms and institutional terminology, to ground learning in real-world practice. By encouraging learners to **explain**, **collaborate**, and **apply** what they learn in authentic group tasks, the design not only supports skill development but also promotes a shared understanding of IPEDS as a **collaborative institutional responsibility**.

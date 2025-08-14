@@ -1,16 +1,17 @@
-Instructional Design: IPEDS Survey Completion Using Jerome Bruner’s Constructivist Learning Theory
-Focused Strategies: Discovery Learning & Spiral Curriculum
+**Theory name: Jerome Bruner’s Constructivist Learning Theory**
 
-Target Learners: Postsecondary administrators responsible for IPEDS reporting
+**Topic**: Completing the Graduation Rates Survey for IPEDS
 
-Learning Objectives:
+**Learners**: Postsecondary administrators responsible for IPEDS reporting
+
+**Learning Objective**:
 By the end of this training, learners will be able to:
 1. Identify the required components and deadlines of the IPEDS survey.
 2. Complete a mock IPEDS data entry task using provided institutional data.
 3. Revise submitted survey entries based on feedback and peer discussion.
 
-I. Discovery Learning
-A. Guided Exploration of IPEDS Components
+**1. Discovery Learning**
+- **Activity**: Guided Exploration of IPEDS Components
 • Learners receive access to an interactive IPEDS glossary and data dictionary.
 • Using a structured scavenger hunt activity:
     o Locate definitions for 10 key IPEDS terms.
@@ -19,7 +20,7 @@ A. Guided Exploration of IPEDS Components
 • Assessment (LO1):
 Learners compile a completed glossary sheet linking IPEDS terms to their survey locations, deadlines, and real-world examples.
 
-B. Case Analysis: “The Reporting Challenge”
+- **Activity**: Case Analysis: “The Reporting Challenge”
 • Scenario: Learners read a short narrative about a fictional college that missed a reporting deadline and submitted inaccurate data.
 • Group task:
     o Identify what information was missing.
@@ -28,15 +29,15 @@ B. Case Analysis: “The Reporting Challenge”
 • Assessment (LO1):
 Learners submit a group action plan outlining prevention strategies and term clarifications.
 
-II. Spiral Curriculum
-A. Building Complexity Over Time
+**2. Spiral Curriculum**
+- **Activity**: Building Complexity Over Time
 • Learners revisit core IPEDS components multiple times across different activities:
     o First in glossary and scavenger hunt.
     o Again in the case analysis.
     o Finally in a hands-on mock submission.
 • Each revisit increases complexity—starting with definitions, moving to application, and ending with revision based on feedback.
 
-B. Mock IPEDS Submission & Review
+- **Activity**: Mock IPEDS Submission & Review
 • Using a sample dataset from a fictional institution:
     o Learners independently complete a simplified IPEDS section.
     o Learners submit their work for peer review using a provided rubric.
@@ -46,13 +47,16 @@ B. Mock IPEDS Submission & Review
 • Assessment (LO2 & LO3):
 Learners revise their submissions using peer feedback and resubmit final versions for instructor review.
 
-III. Reflection & Knowledge Integration
-A. Reflection Journal:
-• Prompt:
+**3. Reflection & Knowledge Integration**
+- **Activity**: Reflection Journal:
+• - **Prompt**:
 “What patterns or rules did you notice while navigating IPEDS requirements? How did revisiting concepts over time affect your understanding?”
-• Submission:
+• - **Submission**:
     o Learners submit a short written reflection or voice memo.
     o Opportunity to identify personal learning strategies for IPEDS reporting.
 
-EXPLANATION OF INSTRUCTION
-This instructional design applies Jerome Bruner’s Constructivist Learning Theory by emphasizing discovery learning and the spiral curriculum. Learners actively construct meaning through guided exploration of key IPEDS terms and processes, uncovering relationships between concepts instead of memorizing static definitions. The spiral curriculum reinforces understanding by revisiting the same concepts in increasingly complex contexts—from glossary exercises to real-world case analysis to mock submissions. This iterative approach ensures that learners develop a deep, flexible understanding of IPEDS requirements, equipping them to apply this knowledge confidently in real reporting situations.
+**Explanation of Instruction**
+Then, learners engage with new terminology through guided instruction, short-response prompts, and real-world examples. This allows them to define terms in both **symbolic** and **practical** ways.
+
+Next, the instruction moves into **applied meaning-making** as learners **classify** mock student data using the correct IPEDS categories. Finally, learners complete actual excerpts of the IPEDS survey using **symbolic** codes and definitions. This applied task reflects **Bruner**’s emphasis on **learning through interaction** with **structured symbols**, encouraging learners to internalize language through use. The reflection at the end reinforces **schema construction** and helps solidify how **symbolic** accuracy leads to effective survey reporting. The lesson uses the **symbolic** representation not only to convey knowledge but to enable learners to perform the tasks they will encounter in their roles with confidence.
+

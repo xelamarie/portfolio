@@ -1,48 +1,52 @@
-Instructional Design Outline – IPEDS Survey Completion Using Bandura’s Social Learning Theory
-Target Audience: Postsecondary administrators responsible for IPEDS reporting
-Training Topic: Completing the IPEDS Graduation Rates Survey
+**Theory name:** Bandura’s Social Learning Theory
 
-1. Learning Objectives
+**Topic**: Completing the IPEDS Graduation Rates Survey
+
+**Target Audience**: Postsecondary administrators responsible for IPEDS reporting
+
+**Training Topic**: Completing the IPEDS Graduation Rates Survey
+
+**Learning Objectives**
 By the end of this training, participants will be able to:
 • Describe the purpose and structure of the IPEDS Graduation Rates survey.
 • Analyze a completed IPEDS survey for accuracy and completeness.
 • Demonstrate correct data entry procedures for the Graduation Rates component.
- 
-2. Instructional Strategies
-• Modeling: Facilitators provide narrated walkthroughs of IPEDS tasks, showing both how and why decisions are made.
-• Attention-Capturing Techniques: Use real-world data mistakes or institutional anecdotes to emotionally and intellectually engage learners early.
-• Visual Reinforcement and Recall: Infographics, screen captures, and templates support memory and step-by-step review.
-• Practice with Feedback: Learners practice tasks in simulations and receive feedback from both peers and facilitators.
-• Reinforcement: Positive feedback, peer recognition, and real-world application value are emphasized.
-• Self-Efficacy Support: Tasks are scaffolded with early wins, and learners reflect on progress to build confidence.
-• Online Integration: Incorporate demo videos, screen-recorded peer walkthroughs, and reflective activities to maintain social presence online.
- 
-3. Learning Activities
-• Model-Watch-Reflect (assesses Describe): Facilitators demonstrate a full Graduation Rates section. Learners watch, then reflect in a journal to describe the purpose and structure of the section using their own institutional context.
-• Peer Review of Demo Submissions (supports Analyze and Demonstrate): Learners record themselves entering data into a mock IPEDS interface, demonstrating data entry procedures. Peers analyze each other’s work for errors and completeness, giving feedback on what was done well or inaccurately.
-• Simulated Group* Audit (assesses Analyze and Demonstrate): Groups receive flawed submissions and are tasked with correcting them. During a debrief, each group analyzes the original errors and demonstrates the corrections.
-• Role Play: See One, Do One, Teach One (assesses Describe and Demonstrate): Learners first observe a task, demonstrate it themselves, then teach it to a partner describing appropriate terminology, reinforcing accuracy and clarity.
-• Engagement Hook: Session begins with a short story about an IPEDS reporting error that affected funding, to capture attention and increase relevance.
- 
-4. Assessment Methods
-Formative Assessments:
+
+**Instructional Strategies**
+• **Modeling**: Facilitators provide narrated walkthroughs of IPEDS tasks, showing both how and why decisions are made.
+• **Attention-Capturing Techniques**: Use real-world data mistakes or institutional anecdotes to emotionally and intellectually engage learners early.
+• **Visual Reinforcement and Recall**: Infographics, screen captures, and templates support memory and step-by-step review.
+• **Practice with Feedback**: Learners practice tasks in simulations and receive feedback from both peers and facilitators.
+• **Reinforcement**: Positive feedback, peer recognition, and real-world application value are emphasized.
+• **Self-Efficacy Support**: Tasks are scaffolded with early wins, and learners reflect on progress to build confidence.
+• **Online Integration**: Incorporate demo videos, screen-recorded peer walkthroughs, and reflective activities to maintain social presence online.
+
+**Learning Activities**
+• **Model-Watch-Reflect** *(assesses Describe)*: Facilitators demonstrate a full Graduation Rates section. Learners watch, then reflect in a journal to describe the purpose and structure of the section using their own institutional context.
+• **Peer Review of Demo Submissions** *(supports Analyze and Demonstrate)*: Learners record themselves entering data into a mock IPEDS interface, demonstrating data entry procedures. Peers analyze each other’s work for errors and completeness, giving feedback on what was done well or inaccurately.
+• **Simulated Group Audit** *(assesses Analyze and Demonstrate)*: Groups receive flawed submissions and are tasked with correcting them. During a debrief, each group analyzes the original errors and demonstrates the corrections.
+• **Role Play: See One, Do One, Teach One** *(assesses Describe and Demonstrate)*: Learners first observe a task, demonstrate it themselves, then teach it to a partner describing appropriate terminology, reinforcing accuracy and clarity.
+• **Engagement Hook**: Session begins with a short story about an IPEDS reporting error that affected funding, to capture attention and increase relevance.
+
+**Assessment Methods**
+*Formative Assessments:*
 • Peer and facilitator feedback on mock submissions and recorded walkthroughs.
 • Observation during group correction activities and role play, checking for task accuracy.
-Summative Assessment:
+
+*Summative Assessment:*
 • Final project: Complete and submit a corrected mock Graduation Rates survey with a recorded group debrief. Each learner must clearly describe survey structure, analyze submitted data, and demonstrate corrections. All three objectives are assessed.
- 
-5. Evaluation of Training Impact
+
+**Evaluation of Training Impact**
 • Immediate post-training survey asking about clarity of modeling, usefulness of peer feedback, and confidence with data entry.
 • Review of reflection journals for evidence of growth in understanding and confidence.
 • Optional follow-up (2–4 weeks later) to assess use of modeled strategies during real IPEDS reporting.
- 
 
-*Group Formation Challenge Addressed: Some learners miss opportunities for observation and modeling when group dynamics are off or when they're excluded from stronger groups.
-Solution:
+*Group Formation Challenge Addressed:* Some learners miss opportunities for observation and modeling when group dynamics are off or when they're excluded from stronger groups.
+**Solution:**
 • Structured Pairing for Modeling: Instead of open group formation, use a rotational model where learners are intentionally paired with different partners over time to observe, model, and practice behaviors. This ensures all learners are included and benefit from diverse peer models.
 • Mentor-Buddy System: Pair newer or struggling learners with more experienced peers who have already demonstrated mastery through previous activities. This supports self-efficacy building and helps all learners feel valued.
 
-EXPLANATION OF INSTRUCTION
-This training is designed around Bandura’s Social Learning Theory, which emphasizes how much we learn by watching others, trying it ourselves, and getting feedback along the way. From the start, participants observe modeled behaviors through facilitator walkthroughs and peer video demos, giving them a strong visual and verbal example of what success looks like. Then, they get multiple chances to practice what they’ve seen, from correcting flawed submissions to teaching a peer, which helps solidify the skills.
+**EXPLANATION OF INSTRUCTION**
+This training is designed around Bandura’s Social Learning Theory, which emphasizes how much we learn by **watching others**, **trying it ourselves**, and **getting feedback** along the way. From the start, participants **observe modeled behaviors** through facilitator walkthroughs and peer video demos, giving them a strong visual and verbal example of what success looks like. Then, they get multiple chances to **practice what they’ve seen**, from **correcting flawed submissions** to **teaching a peer**, which helps solidify the skills.
 
-Throughout the lesson, there are strategies to capture attention, build confidence, and support recall. This is done by beginning with a real-world data mishap and offering structured feedback loops during practice. Because this training can also be done online, we made sure to include video-based modeling, peer review, and reflective journaling to keep it social and engaging even from a distance. To ensure equitable access to observation and modeling opportunities, we’ve addressed the group formation challenge by using structured pairing for modeling and a mentor-buddy system, so no learner is left out of strong peer interactions. Everything’s intentionally designed to help learners feel supported, motivated, and ready to tackle real IPEDS reporting with confidence.
+Throughout the lesson, there are strategies to **capture attention**, **build confidence**, and **support recall**. This is done by beginning with a real-world data mishap and offering **structured feedback loops** during practice. Because this training can also be done online, we made sure to include **video-based modeling**, **peer review**, and **reflective journaling** to keep it social and engaging even from a distance. To ensure equitable access to **observation** and **modeling** opportunities, we’ve addressed the group formation challenge by using **structured pairing** for modeling and a **mentor-buddy system**, so no learner is left out of strong peer interactions. Everything’s intentionally designed to help learners feel supported, motivated, and ready to tackle real IPEDS reporting with confidence.

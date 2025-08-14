@@ -1,27 +1,30 @@
-Instructional Design for IPEDS Survey Completion Inspired by Alexander Hamilton
-Learning Objectives
+**Theory name:** Maslow's Hierarchy of Needs
+**Topic:** Instructional Design for IPEDS Survey Completion Inspired by Alexander Hamilton**
+**Target Audience:** Postsecondary administrators responsible for IPEDS reporting
+
+**Learning Objectives**
 By the end of this training, participants will be able to:
 • LO1: Interpret the structure and categories of the IPEDS survey using institutional language.
 • LO2: Collaborate with peers to complete IPEDS sections accurately and efficiently.
 • LO3: Reflect on how accurate reporting supports institutional integrity and broader educational goals.
 
-Instructional Strategies
-• Address Physiological and Safety Needs: Provide a clear, calm training environment with structured pacing and resource access.
-• Foster Belonging: Use group work and storytelling to make participants feel part of a learning community.
+**Instructional Strategies**
+• Address **Physiological and Safety Needs**: Provide a clear, calm training environment with structured pacing and resource access.
+• **Foster Belonging**: Use group work and storytelling to make participants feel part of a learning community.
 • Support Esteem and Confidence: Scaffold tasks for early wins and use celebratory feedback à la Hamilton’s “I’m not throwing away my shot.”
-• Promote Cognitive Engagement: Introduce case-based scenarios from real IPEDS reporting mistakes and let learners solve them.
-• Incorporate Aesthetic Elements: Use Hamilton-style lyrical phrasing or rhythm-infused visuals to reinforce key concepts.
-• Encourage Self-Actualization: Include open-ended challenges asking learners how they might improve institutional reporting processes.
-• Inspire Transcendence: Emphasize how data transparency contributes to public trust in education, echoing Hamilton’s legacy of accountability and vision.
+• Promote **Cognitive Engagement**: Introduce case-based scenarios from real IPEDS reporting mistakes and let learners solve them.
+• Incorporate **Aesthetic Elements**: Use Hamilton-style lyrical phrasing or rhythm-infused visuals to reinforce key concepts.
+• Encourage **Self-Actualization**: Include open-ended challenges asking learners how they might improve institutional reporting processes.
+• Inspire **Transcendence**: Emphasize how data transparency contributes to public trust in education, echoing Hamilton’s legacy of accountability and vision.
 
-Learning Activities
+**Learning Activities**
 • “Write Your Way In” Warm-Up (supports Maslow’s base needs): Learners journal about a time when data impacted a decision they cared about. It lowers affective filters and creates an open reflective space.
 • Peer Partnership Breakouts (assesses LO2): Participants are assigned to duos (“duel teams”) to complete a practice IPEDS table in collaboration. They compare decisions, identify discrepancies, and improve data consistency.
 • Reporting Showcase (assesses LO1): Small groups present on one survey component using stylized visuals and mnemonic-rich phrases, demonstrating accurate interpretation of structure and terminology.
 • Hamilton Quote Walk (supports confidence, cognition, and aesthetics): Participants rotate around stations with quotes from the musical paired with data ethics prompts—e.g., “Who lives, who dies, who tells your data story?”
 • Vision Forward Reflection (assesses LO3): Learners write a short “Data Federalist Paper” reflection describing how improved IPEDS reporting can better serve their institution and contribute to the greater good.
 
-Assessment Methods
+**Assessment Methods**
 Formative Assessments:
 • Feedback forms after collaborative tasks (supports LO2)
 • Peer assessments on Reporting Showcase presentations
@@ -30,13 +33,13 @@ Summative Assessment:
 • Final project: Teams collaborate and submit a mock IPEDS entry and written rationale/interpretation connecting data choices to institutional goals (assesses LO1 and LO2).
 • Individual reflections on how reporting accuracy contributes to institutional trust and mission (assesses LO3).
 
-Evaluation of Training Impact
+**Evaluation of Training Impact**
 • Post-training survey measuring belonging, confidence, and clarity
 • Self-assessment checklist aligned with Maslow’s motivational stages
 • Optional follow-up: Each participant submits one proposed improvement for their department’s IPEDS process
 
-EXPLANATION OF INSTRUCTION
+**EXPLANATION OF INSTRUCTION**
 
-This instructional design is based on Maslow’s Hierarchy of Needs and brings in the relentless drive and imaginative energy of Lin-Manuel Miranda’s portrayal of Alexander Hamilton. Right from the beginning, learners are supported through addressing physiological and safety needs by establishing a structured, well-resourced training space that sets a calm but confident tone. As the lesson progresses, learners connect with each other through collaborative challenges and storytelling, helping to foster belonging and create a sense of shared mission.
+This instructional design is based on **Maslow’s Hierarchy of Needs** and brings in the relentless drive and imaginative energy of Lin-Manuel Miranda’s portrayal of Alexander Hamilton. Right from the beginning, learners are supported through addressing **physiological and safety needs** by establishing a structured, well-resourced training space that sets a calm but confident tone. As the lesson progresses, learners connect with each other through collaborative challenges and storytelling, helping to **foster belonging** and create a sense of shared mission.
 
-Like Hamilton stepping onto the stage of history, participants are given chances to build esteem and confidence through scaffolded activities and affirming feedback that parallels Hamilton’s motto, “I am not throwing away my shot.” Engaging tasks built around real reporting missteps promote cognitive engagement, while aesthetic elements, such as lyric-inspired prompts or rhythm-based visuals, add a creative, memorable touch. The instructional experience ends in reflective writing and vision-setting to encourage self-actualization and inspire transcendence, reminding learners that accurate data isn’t just compliance–it’s part of something larger.
+Like Hamilton stepping onto the stage of history, participants are given chances to **build esteem and confidence** through scaffolded activities and affirming feedback that parallels Hamilton’s motto, “I am not throwing away my shot.” Engaging tasks built around real reporting missteps promote **cognitive engagement**, while **aesthetic elements**, such as lyric-inspired prompts or rhythm-based visuals, add a creative, memorable touch. The instructional experience ends in reflective writing and vision-setting to encourage **self-actualization** and inspire **transcendence**, reminding learners that accurate data isn’t just compliance–it’s part of something larger.

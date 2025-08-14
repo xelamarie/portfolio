@@ -1,47 +1,60 @@
-Instructional Design Outline – IPEDS Survey Completion Using the Social Interdependence Theory
-Target Audience: Postsecondary administrators responsible for IPEDS reporting
-Training Topic: Completing the IPEDS Graduation Rates Survey
+**Theory name:** Social Interdependence Theory
 
-1. Learning Objectives
-By the end of this training, participants will be able to:
-• Work interdependently with peers to complete a simulated section of the IPEDS survey using institutional data.
-• Articulate individual responsibilities within a group IPEDS reporting task.
-• Reflect on how group collaboration supported accurate and complete IPEDS reporting.
+**Topic**: Completing the Graduation Rates Survey for IPEDS
 
-2. Instructional Strategies
-• Positive Interdependence: Shared goals and tasks ensure that group success depends on every member contributing.
-• Promotive Interaction: Collaborative tasks require learners to engage in discussion and negotiation to reach consensus.
-• Individual Accountability: Each group member is assigned a specific role to ensure balanced contribution.
-• Interpersonal and Social Skill Building: Time is carved out to develop collaboration, communication, and conflict resolution skills.
-• Group Processing: Reflection and feedback are embedded to help teams improve their collaboration over time.
-• Flipped Content Access: Foundational concepts are introduced ahead of time so training time is focused on group application.
+**Learners**: Postsecondary administrators responsible for IPEDS reporting
 
-3. Learning Activities
-• Flipped Prep Video (pre-training): Before the live session, learners watch a short video overview of IPEDS survey sections and a quick case study on a data error caused by miscommunication. This sets the stage for collaborative problem-solving and helps learners arrive ready to contribute.
-• Team Simulation (assesses Work interdependently with peers): Small groups* receive a data packet from a fictional institution. Each member is assigned a role (e.g., data analyst, categorizer, quality checker). Together, they work to complete a simulated IPEDS survey section, with each role’s contribution tied to overall group success.
-• Jigsaw Peer Review (assesses Articulate individual responsibilities): After completing the group task, teams break into cross-group jigsaw groups. Each learner articulates their role, how they contributed, and explains key decisions made during the simulation.
-• Group Reflection Journal (assesses Reflect on how group collaboration supported reporting): Each team completes a brief collaborative reflection on how well they communicated, divided tasks, and learned from the process. Individual prompts help surface both personal takeaways and group dynamics.
+**Learning Objective**:
+1. Learners will be able to define and apply Social Interdependence Theory principles within a group data reporting context.
+2. Learners will be able to complete the IPEDS Graduation Rates survey in a collaborative setting with defined roles and responsibilities.
+3. Learners will be able to reflect on group performance and individual contributions.
 
-4. Assessment Methods
+---
+
+**Instructional Strategies**
+• **Group Goals & Shared Responsibility**: Tasks are framed around a collective outcome where each member's input is essential.
+• **Positive Interdependence**: Assign complementary roles such as Data Checker, Category Lead, Submission Manager, and Presenter.
+• **Individual Accountability**: Require each member to submit a brief reflection on their role’s contributions.
+• **Role Rotation**: Rotate responsibilities in multi-step activities to ensure varied experiences.
+• **Jigsaw Method**: Teams split into subgroups to master and then teach different sections of the IPEDS survey.
+• **Promotive Interaction**: Encourage face-to-face or synchronous virtual discussions during data classification.
+• **Group Reflection**: Debrief on group communication, problem-solving, and role effectiveness.
+• **Conflict Navigation Practice**: Simulate disagreements over classification to model constructive resolution.
+• **Flipped Content**: Assign pre-reading on IPEDS structure so class time can focus on collaborative work.
+
+---
+
+**Learning Activities**
+• **Role-Based Group IPEDS Task**: Teams complete a fictional institution’s Graduation Rates Survey with each member performing a unique role. → Assesses: All objectives
+• **Jigsaw IPEDS Deep Dive**: Subgroups analyze different reporting sections, then regroup to teach and finalize the full survey. → Assesses: Define & Apply theory principles, Complete survey collaboratively
+• **Conflict Resolution Simulation**: Pairs role-play a classification disagreement and model a positive resolution. → Supports: Apply theory principles
+• **Group Reflection & Debrief**: Discuss how the team functioned, individual contributions, and group success in completing the survey. → Assesses: Reflect on performance
+
+---
+
+**Assessment Methods**
 Formative:
-• Facilitator observation during simulation for promotive interaction and role clarity
-• Jigsaw discussion notes evaluating individual accountability and peer understanding
+→ Assesses all objectives
+• Observations during group work and role execution
+• Peer feedback on team contributions
+• Reflective journals
+
 Summative:
-• Final group submission of a mock IPEDS section with a short video or written explanation
-• Group reflection journal assessing collaboration, accuracy, and growth in cooperative skills
+→ Assesses all objectives
+• Final group submission of the Graduation Rates Survey
+• Group presentation explaining decision-making and application of Social Interdependence Theory
+• Individual reflection submission
 
-5. Evaluation of Training Impact
-• Post-training survey on perceptions of group collaboration and role clarity
-• Follow-up self-report survey (2–3 weeks post-training) on real-world application of collaboration strategies
-• Optional manager feedback on accuracy and completeness of post-training IPEDS submissions
+---
 
-*Group Formation Challenge Addressed: Assigned groups can lead to uneven participation or social tension, undermining the positive interdependence that’s core to this theory.
-Solution:
-• Role-Based Rotation: In every task, assign structured, rotating roles (e.g., facilitator, note-taker, challenger, presenter). This creates individual accountability and allows all voices to be heard.
-• Conflict Navigation Practice: Incorporate quick mini-lessons on teamwork and communication skills. Use role-play or discussion scenarios about what to do if someone feels left out or unheard.
-• Group Choice After Round 1: Initially assign groups, but for future activities, allow students to request one peer they'd like to work with, balancing autonomy and fairness.
+**Evaluation of Training Impact**
+• Post-training surveys measuring perceived clarity, usefulness of collaboration, and satisfaction with group process
+• Analysis of group reflections for indicators of collaborative growth
+• Follow-up after 1–2 months to check on use of group strategies in real reporting
 
-EXPLANATION OF INSTRUCTION
-This lesson applies Social Interdependence Theory by focusing instruction around group goals, shared responsibility, and structured collaboration. Learners don’t just complete a task. They work interdependently to meet a common objective, with each role carrying a part of the load. Assigning defined responsibilities reinforces individual accountability, while jigsaw and group reflection give learners the chance to process what they contributed and how the team functioned as a whole. To ensure positive group dynamics from the start, learners are placed in assigned teams for the first round, with Role-Based Rotation built in to support fairness and inclusion. For subsequent activities, learners may request one peer they'd like to work with, striking a balance between autonomy and equity.
+---
 
-To keep the session focused and meaningful, flipped content is used so that foundational concepts are covered ahead of time and class time can emphasize promotive interaction. During the lesson, learners use real-world data to apply their understanding in hands-on ways. A brief conflict navigation practice gives learners a chance to build interpersonal and social skills and rehearse what to do when communication breaks down. This structure not only helps learners gain a stronger grasp of IPEDS reporting, it also teaches them how collaboration, communication, and shared accountability drive success.
+**EXPLANATION OF INSTRUCTION**
+This lesson applies Social Interdependence Theory by focusing instruction around **group goals**, **shared responsibility**, and **structured collaboration**. Learners don’t just complete a task. They **work interdependently** to meet a common objective, with each role carrying a part of the load. Assigning **defined responsibilities** reinforces **individual accountability**, while **jigsaw** and **group reflection** give learners the chance to process what they contributed and how the team functioned as a whole. To ensure **positive interdependence** from the start, learners are placed in assigned teams for the first round, with **Role-Based Rotation** built in to support fairness and inclusion. For subsequent activities, learners may request one peer they'd like to work with, striking a balance between autonomy and equity.
+
+To keep the session focused and meaningful, **flipped content** is used so that foundational concepts are covered ahead of time and class time can emphasize **promotive interaction**. During the lesson, learners use real-world data to apply their understanding in hands-on ways. A brief **conflict navigation practice** gives learners a chance to build **interpersonal and social skills** and rehearse what to do when communication breaks down. This structure not only helps learners gain a stronger grasp of IPEDS reporting, it also teaches them how collaboration, communication, and shared accountability drive success.
